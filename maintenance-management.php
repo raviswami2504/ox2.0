@@ -78,7 +78,7 @@
       color: #fab758 !important;
     }
 
-    #phone-content 4 {
+    #phone-content{
       font-size: 18px;
       color: white;
     }
