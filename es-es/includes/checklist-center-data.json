@@ -1,0 +1,402 @@
+[
+    {
+        "Title": "Backup Generator Maintenance Checklist Weekly & Monthly Tasks",
+        "Industry": "Facility Management",
+        "Type of Checklist": "Preventive Maintenance",
+        "Asset Type": "Generator",
+        "Asset Name": "Backup Generator",
+        "Meta Description": "Stay compliant with our Backup Generator Maintenance Checklist. Covers weekly and monthly checks for power backup reliability.",
+        "Meta Keywords": "backup generator maintenance, generator checklist, facility power backup, generator safety inspection",
+        "URL": "backup-generator-maintenance-checklist"
+    },
+    {
+        "Title": "Electrical Panel Inspection Checklist Safety & Compliance Guide",
+        "Industry": "Commercial Buildings",
+        "Type of Checklist": "Inspection",
+        "Asset Type": "Electrical Panel",
+        "Asset Name": "Main Electrical Panel",
+        "Meta Description": "Ensure safety and compliance with our Electrical Panel Inspection Checklist for commercial facilities.",
+        "Meta Keywords": "electrical panel checklist, panel inspection guide, facility electrical safety, main power panel check",
+        "URL": "electrical-panel-inspection-checklist"
+    },
+    {
+        "Title": "Fire Alarm System Maintenance Checklist NFPA Compliant",
+        "Industry": "Fire Safety",
+        "Type of Checklist": "Inspection & Maintenance",
+        "Asset Type": "Fire Alarm System",
+        "Asset Name": "Fire Alarm Control Panel",
+        "Meta Description": "Comprehensive Fire Alarm Panel Inspection Checklist for NFPA compliance and routine system maintenance.",
+        "Meta Keywords": "fire alarm panel checklist, NFPA alarm inspection, fire safety checklist",
+        "URL": "fire-alarm-system-maintenance-checklist"
+    },
+    {
+        "Title": "Emergency Exit Light Inspection Checklist OSHA Safety Standard",
+        "Industry": "Facility Safety",
+        "Type of Checklist": "Monthly Inspection",
+        "Asset Type": "Lighting",
+        "Asset Name": "Emergency Exit Lights",
+        "Meta Description": "Use this Emergency Exit Light Inspection Checklist to meet OSHA safety standards and ensure visibility during emergencies.",
+        "Meta Keywords": "emergency exit light checklist, OSHA lighting inspection, fire escape lighting",
+        "URL": "emergency-exit-light-inspection-checklist"
+    },
+    {
+        "Title": "HVAC Vacuum Pump Maintenance Checklist Prevent Downtime",
+        "Industry": "HVAC",
+        "Type of Checklist": "Routine Maintenance",
+        "Asset Type": "HVAC Equipment",
+        "Asset Name": "HVAC Vacuum Pump",
+        "Meta Description": "Prevent HVAC downtime with this Vacuum Pump Maintenance Checklist designed for optimal performance.",
+        "Meta Keywords": "hvac vacuum pump, pump maintenance checklist, hvac system service",
+        "URL": "hvac-vacuum-pump-maintenance-checklist"
+    },
+    {
+        "Title": "Split AC Unit Inspection Checklist Office Cooling Systems",
+        "Industry": "Commercial HVAC",
+        "Type of Checklist": "Cooling Unit Inspection",
+        "Asset Type": "Split AC",
+        "Asset Name": "Split AC Conference Room",
+        "Meta Description": "Split AC Inspection Checklist for office cooling systems â€“ keep your conference rooms comfortable and compliant.",
+        "Meta Keywords": "split ac checklist, office cooling inspection, HVAC unit maintenance",
+        "URL": "split-ac-unit-inspection-checklist"
+    },
+    {
+        "Title": "Chiller Maintenance Checklist Daily, Weekly & Annual Tasks",
+        "Industry": "Facility Operations",
+        "Type of Checklist": "HVAC Maintenance",
+        "Asset Type": "Chiller",
+        "Asset Name": "Chiller Unit #1",
+        "Meta Description": "Chiller Maintenance Checklist for facilities â€“ includes daily, weekly, and annual inspection points.",
+        "Meta Keywords": "chiller checklist, HVAC chiller maintenance, industrial cooling systems",
+        "URL": "chiller-maintenance-checklist"
+    },
+    {
+        "Title": "Cooling Tower Inspection & Cleaning Checklist HVAC Compliance",
+        "Industry": "Industrial Facilities",
+        "Type of Checklist": "Water System Inspection",
+        "Asset Type": "Cooling Tower",
+        "Asset Name": "Cooling Tower",
+        "Meta Description": "Cooling Tower Inspection Checklist to ensure efficiency and prevent Legionella growth in HVAC systems.",
+        "Meta Keywords": "cooling tower inspection, HVAC tower maintenance, water system checklist",
+        "URL": "cooling-tower-inspection-and-cleaning-checklist"
+    },
+    {
+        "Title": "Elevator Panel Inspection Checklist Safety & Functionality",
+        "Industry": "Building Services",
+        "Type of Checklist": "Electrical Inspection",
+        "Asset Type": "Elevator",
+        "Asset Name": "Elevator Control Panel",
+        "Meta Description": "Elevator Panel Inspection Checklist for routine maintenance and operational safety.",
+        "Meta Keywords": "elevator checklist, lift panel inspection, vertical transport safety",
+        "URL": "elevator-panel-inspection-checklist"
+    },
+    {
+        "Title": "Smoke Detector Testing Checklist Office Fire Safety",
+        "Industry": "Fire Safety",
+        "Type of Checklist": "Test & Inspection",
+        "Asset Type": "Smoke Detector",
+        "Asset Name": "Smoke Detector Admin Wing",
+        "Meta Description": "Smoke Detector Testing Checklist for admin buildings â€“ ensure life safety code compliance.",
+        "Meta Keywords": "smoke detector checklist, fire alarm test, safety inspection",
+        "URL": "smoke-detector-testing-checklist"
+    },
+    {
+        "Title": "Fire Extinguisher Inspection Checklist Monthly Compliance",
+        "Industry": "Fire Safety",
+        "Type of Checklist": "Monthly Inspection",
+        "Asset Type": "Fire Extinguisher",
+        "Asset Name": "Fire Extinguisher Main Lobby",
+        "Meta Description": "Fire Extinguisher Inspection Checklist to ensure readiness and compliance with NFPA 10.",
+        "Meta Keywords": "fire extinguisher inspection, NFPA 10 checklist, monthly safety check",
+        "URL": "fire-extinguisher-inspection-checklist"
+    },
+    {
+        "Title": "Eyewash Station Safety Checklist Emergency Preparedness",
+        "Industry": "Health & Safety",
+        "Type of Checklist": "Safety Equipment Check",
+        "Asset Type": "Eyewash Station",
+        "Asset Name": "Emergency Eye Wash Station",
+        "Meta Description": "Eyewash Station Safety Checklist for labs and industrial facilities â€“ meet ANSI Z358.1 requirements.",
+        "Meta Keywords": "eyewash checklist, ANSI Z358.1, safety shower inspection",
+        "URL": "eyewash-station-safety-checklist"
+    },
+    {
+        "Title": "UPS Inspection Checklist Server Room Power Backup Safety",
+        "Industry": "IT Infrastructure",
+        "Type of Checklist": "Power Backup Inspection",
+        "Asset Type": "UPS",
+        "Asset Name": "Server Room UPS",
+        "Meta Description": "UPS Inspection Checklist for server rooms â€“ prevent outages and maintain business continuity.",
+        "Meta Keywords": "UPS checklist, server room power backup, uninterruptible power inspection",
+        "URL": "ups-inspection-checklist"
+    },
+    {
+        "Title": "Electrical Transformer Maintenance Checklist Facility Safety",
+        "Industry": "Power Distribution",
+        "Type of Checklist": "Preventive Maintenance",
+        "Asset Type": "Transformer",
+        "Asset Name": "Electrical Transformer",
+        "Meta Description": "Electrical Transformer Maintenance Checklist to ensure power reliability and safety.",
+        "Meta Keywords": "transformer checklist, electrical maintenance, power equipment inspection",
+        "URL": "electrical-transformer-maintenance-checklist"
+    },
+    {
+        "Title": "Forklift Inspection Checklist Daily Pre-Shift Operations",
+        "Industry": "Warehouse Operations",
+        "Type of Checklist": "Operator Pre-Use",
+        "Asset Type": "Forklift",
+        "Asset Name": "Forklift Warehouse #2",
+        "Meta Description": "Forklift Inspection Checklist for daily pre-shift checks â€“ improve warehouse safety and reduce risk.",
+        "Meta Keywords": "forklift checklist, warehouse safety, powered industrial truck inspection",
+        "URL": "forklift-inspection-checklist"
+    },
+    {
+        "Title": "Fire Hose Reel Inspection Checklist Fire Safety Standards",
+        "Industry": "Fire Safety",
+        "Type of Checklist": "Equipment Inspection",
+        "Asset Type": "Fire Hose Reel",
+        "Asset Name": "Fire Hose Reel Floor 5",
+        "Meta Description": "Fire Hose Reel Inspection Checklist â€“ ensure readiness for emergency fire response.",
+        "Meta Keywords": "fire hose checklist, emergency fire equipment, NFPA hose inspection",
+        "URL": "fire-hose-reel-inspection-checklist"
+    },
+    {
+        "Title": "UPS Room Environmental Sensor Checklist Temperature & Air Quality",
+        "Industry": "IT Infrastructure",
+        "Type of Checklist": "Environment Monitoring",
+        "Asset Type": "Sensor",
+        "Asset Name": "UPS Room Air Quality Sensor",
+        "Meta Description": "Air Quality Sensor Checklist for UPS rooms â€“ monitor temperature and humidity to protect IT systems.",
+        "Meta Keywords": "air sensor checklist, UPS room environment, IT equipment monitoring",
+        "URL": "ups-room-environmental-sensor-checklist"
+    },
+    {
+        "Title": "Network Switch Maintenance Checklist IT Infrastructure",
+        "Industry": "IT & Networking",
+        "Type of Checklist": "Hardware Inspection",
+        "Asset Type": "Network Switch",
+        "Asset Name": "Network Switch Cabinet A",
+        "Meta Description": "Network Switch Inspection Checklist for uptime and structured IT maintenance.",
+        "Meta Keywords": "network switch checklist, IT cabinet inspection, server hardware maintenance",
+        "URL": "network-switch-maintenance-checklist"
+    },
+    {
+        "Title": "CCTV Inspection Checklist Entrance Security Monitoring",
+        "Industry": "Security",
+        "Type of Checklist": "Surveillance Equipment",
+        "Asset Type": "CCTV Camera",
+        "Asset Name": "CCTV Camera Entrance Gate",
+        "Meta Description": "CCTV Inspection Checklist for security cameras â€“ ensure coverage and recording quality.",
+        "Meta Keywords": "CCTV checklist, camera inspection, building surveillance",
+        "URL": "cctv-inspection-checklist"
+    },
+    {
+        "Title": "Access Control System Checklist Door Entry & Logs",
+        "Industry": "Security Systems",
+        "Type of Checklist": "System Monitoring",
+        "Asset Type": "Access Control",
+        "Asset Name": "Access Control Server",
+        "Meta Description": "Access Control System Checklist for server integrity and door access log validation.",
+        "Meta Keywords": "access control checklist, door entry log, security server inspection",
+        "URL": "access-control-system-checklist"
+    },
+    {
+        "Title": "Security DVR Maintenance Checklist Video Surveillance Backup",
+        "Industry": "Security Systems",
+        "Type of Checklist": "Video Backup Monitoring",
+        "Asset Type": "DVR",
+        "Asset Name": "Security DVR Unit",
+        "Meta Description": "Security DVR Inspection Checklist for surveillance footage reliability and storage checks.",
+        "Meta Keywords": "DVR checklist, security video backup, surveillance monitoring",
+        "URL": "security-dvr-maintenance-checklist"
+    },
+    {
+        "Title": "Fire Pump Controller Checklist Emergency Response Readiness",
+        "Industry": "Fire Protection",
+        "Type of Checklist": "Emergency Equipment Inspection",
+        "Asset Type": "Fire Pump System",
+        "Asset Name": "Fire Pump Controller",
+        "Meta Description": "Fire Pump Controller Checklist for testing emergency fire response readiness in commercial buildings.",
+        "Meta Keywords": "fire pump controller checklist, emergency fire system, NFPA fire equipment",
+        "URL": "fire-pump-controller-checklist"
+    },
+    {
+        "Title": "Sprinkler System Valve Room Inspection Checklist NFPA 25",
+        "Industry": "Fire Protection",
+        "Type of Checklist": "Valve Inspection",
+        "Asset Type": "Sprinkler System",
+        "Asset Name": "Sprinkler Valve Room Access",
+        "Meta Description": "Sprinkler Valve Room Inspection Checklist â€“ ensure NFPA 25 compliance for sprinkler systems.",
+        "Meta Keywords": "sprinkler valve checklist, fire sprinkler inspection, NFPA 25",
+        "URL": "sprinkler-system-valve-room-inspection-checklist"
+    },
+    {
+        "Title": "Generator Fuel Level Inspection Checklist Emergency Backup",
+        "Industry": "Facilities Management",
+        "Type of Checklist": "Fuel System Inspection",
+        "Asset Type": "Generator Fuel Gauge",
+        "Asset Name": "Emergency Generator Fuel Gauge",
+        "Meta Description": "Emergency Generator Fuel Level Inspection Checklist to ensure reliable backup during power outages.",
+        "Meta Keywords": "generator fuel gauge checklist, emergency generator inspection, power backup fuel",
+        "URL": "generator-fuel-level-inspection-checklist"
+    },
+    {
+        "Title": "VFD Maintenance Checklist HVAC Energy Optimization",
+        "Industry": "HVAC",
+        "Type of Checklist": "Electrical Maintenance",
+        "Asset Type": "VFD",
+        "Asset Name": "Variable Frequency Drive HVAC",
+        "Meta Description": "VFD Inspection Checklist for HVAC systems â€“ optimize energy efficiency and motor control.",
+        "Meta Keywords": "VFD checklist, HVAC drive inspection, variable frequency drive maintenance",
+        "URL": "vfd-maintenance-checklist"
+    },
+    {
+        "Title": "Building Management System (BMS) Checklist Automation Review",
+        "Industry": "Smart Buildings",
+        "Type of Checklist": "Automation System Inspection",
+        "Asset Type": "BMS",
+        "Asset Name": "Building Management System Hub",
+        "Meta Description": "Building Management System Checklist â€“ ensure automation systems are running effectively and securely.",
+        "Meta Keywords": "BMS checklist, building automation inspection, smart facility system",
+        "URL": "building-management-system-bms-checklist"
+    },
+    {
+        "Title": "Kitchen Fire Suppression System Checklist NFPA Compliance",
+        "Industry": "Hospitality   Food Service",
+        "Type of Checklist": "Fire Safety",
+        "Asset Type": "Kitchen Fire Panel",
+        "Asset Name": "Fire Suppression Panel Kitchen",
+        "Meta Description": "Kitchen Fire Suppression System Checklist for fire prevention and NFPA compliance in commercial kitchens.",
+        "Meta Keywords": "kitchen fire suppression checklist, restaurant fire safety, NFPA kitchen systems",
+        "URL": "kitchen-fire-suppression-system-checklist"
+    },
+    {
+        "Title": "CO Detector Inspection Checklist Indoor Air Safety",
+        "Industry": "Health & Safety",
+        "Type of Checklist": "Sensor Testing",
+        "Asset Type": "CO Detector",
+        "Asset Name": "Carbon Monoxide Detector",
+        "Meta Description": "CO Detector Testing Checklist for indoor air quality safety in residential and commercial facilities.",
+        "Meta Keywords": "carbon monoxide detector checklist, CO sensor test, air quality safety",
+        "URL": "co-detector-inspection-checklist-indoor-air-safety"
+    },
+    {
+        "Title": "Gas Leak Detection Checklist Kitchen & Boiler Rooms",
+        "Industry": "Industrial Safety",
+        "Type of Checklist": "Sensor Inspection",
+        "Asset Type": "Gas Detector",
+        "Asset Name": "Gas Leak Sensor",
+        "Meta Description": "Gas Leak Sensor Inspection Checklist for leak detection in kitchens, labs, and industrial environments.",
+        "Meta Keywords": "gas sensor checklist, leak detection system, kitchen gas safety",
+        "URL": "gas-leak-detection-checklist-kitchen-and-boiler-rooms"
+    },
+    {
+        "Title": "Toilet Flush Valve Inspection Checklist Restroom Maintenance",
+        "Industry": "Facility Maintenance",
+        "Type of Checklist": "Restroom Equipment Check",
+        "Asset Type": "Flush Valve",
+        "Asset Name": "Toilet Flush Valve",
+        "Meta Description": "Toilet Flush Valve Inspection Checklist for maintaining restroom functionality and water efficiency.",
+        "Meta Keywords": "toilet flush checklist, restroom valve inspection, plumbing maintenance",
+        "URL": "toilet-flush-valve-inspection-checklist-restroom-maintenance"
+    },
+    {
+        "Title": "Backwater Valve Basement Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Plumbing & Drainage",
+        "Type of Checklist": "Flood Prevention",
+        "Asset Type": "Backwater Valve",
+        "Asset Name": "Backwater Valve Basement",
+        "Meta Description": "Backwater Valve Inspection Checklist for basement flood protection and proper drainage system operation.",
+        "Meta Keywords": "backwater valve checklist, flood prevention, basement drainage",
+        "URL": "backwater-valve-basement-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Handwashing Sink Assembly Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Sanitation & Hygiene",
+        "Type of Checklist": "Sink Maintenance",
+        "Asset Type": "Handwashing Sink",
+        "Asset Name": "Handwashing Sink Assembly",
+        "Meta Description": "Handwashing Sink Maintenance Checklist for hygiene compliance in food and healthcare facilities.",
+        "Meta Keywords": "sink inspection checklist, hygiene sink maintenance, restroom sink check",
+        "URL": "handwashing-sink-assembly-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Utility Trench Grate Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Infrastructure",
+        "Type of Checklist": "Structural Safety Check",
+        "Asset Type": "Trench Grate",
+        "Asset Name": "Utility Trench Grate",
+        "Meta Description": "Utility Trench Grate Inspection Checklist â€“ ensure surface safety and structural integrity.",
+        "Meta Keywords": "trench grate checklist, utility infrastructure inspection, surface safety",
+        "URL": "utility-trench-grate-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Grease Trap Monitoring Sensor Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Commercial Kitchens",
+        "Type of Checklist": "Grease Management",
+        "Asset Type": "Sensor",
+        "Asset Name": "Grease Trap Monitoring Sensor",
+        "Meta Description": "Grease Trap Sensor Inspection Checklist â€“ monitor waste levels and avoid overflows in kitchens.",
+        "Meta Keywords": "grease trap sensor, kitchen waste management, trap monitoring",
+        "URL": "grease-trap-monitoring-sensor-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Secure VPN Appliance Inspection Checklist Facility Maintenance Guide",
+        "Industry": "IT Security",
+        "Type of Checklist": "Network Equipment Audit",
+        "Asset Type": "VPN",
+        "Asset Name": "Secure VPN Appliance",
+        "Meta Description": "Secure VPN Appliance Checklist for remote access security and encrypted network connections.",
+        "Meta Keywords": "VPN checklist, secure remote access, network encryption audit",
+        "URL": "secure-vpn-appliance-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Voice Evacuation Speaker Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Emergency Systems",
+        "Type of Checklist": "PA System Test",
+        "Asset Type": "Speaker",
+        "Asset Name": "Voice Evacuation Speaker",
+        "Meta Description": "Voice Evacuation Speaker Inspection Checklist for audible emergency instructions and safety drills.",
+        "Meta Keywords": "evacuation speaker checklist, emergency speaker test, voice alarm system",
+        "URL": "voice-evacuation-speaker-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Cloud Access Point Node Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Enterprise Networking",
+        "Type of Checklist": "Wireless Infrastructure Check",
+        "Asset Type": "Access Point",
+        "Asset Name": "Cloud Access Point Node",
+        "Meta Description": "Cloud Access Point Node Checklist for ensuring consistent wireless coverage and network integrity.",
+        "Meta Keywords": "wireless access point checklist, Wi-Fi node audit, enterprise cloud access",
+        "URL": "cloud-access-point-node-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Vacuum Breaker Valve Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Plumbing",
+        "Type of Checklist": "Backflow Prevention",
+        "Asset Type": "Vacuum Breaker",
+        "Asset Name": "Vacuum Breaker Valve",
+        "Meta Description": "Vacuum Breaker Valve Checklist for backflow prevention in irrigation and plumbing systems.",
+        "Meta Keywords": "vacuum breaker inspection, backflow valve checklist, plumbing safety",
+        "URL": "vacuum-breaker-valve-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Hose Bib Maintenance Yard Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Landscaping & Maintenance",
+        "Type of Checklist": "Outdoor Plumbing Check",
+        "Asset Type": "Hose Bib",
+        "Asset Name": "Hose Bib Maintenance Yard",
+        "Meta Description": "Hose Bib Inspection Checklist for maintenance yards â€“ prevent leaks and ensure water access.",
+        "Meta Keywords": "hose bib checklist, outdoor faucet inspection, water supply check",
+        "URL": "hose-bib-maintenance-yard-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Drinking Fountain Filter Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Public Facilities",
+        "Type of Checklist": "Water Filter Replacement",
+        "Asset Type": "Fountain Filter",
+        "Asset Name": "Drinking Fountain Filter",
+        "Meta Description": "Drinking Fountain Filter Checklist for ensuring clean, filtered water in public areas.",
+        "Meta Keywords": "fountain filter checklist, drinking water inspection, public water safety",
+        "URL": "drinking-fountain-filter-inspection-checklist-facility-maintenance-guide"
+    }
+]

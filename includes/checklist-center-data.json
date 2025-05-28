@@ -1,0 +1,362 @@
+[
+    {
+        "Title": "Backup Generator Maintenance Checklist Weekly & Monthly Tasks",
+        "Industry": "Facility Management",
+        "Type of Checklist": "Preventive Maintenance",
+        "Asset Type": "Generator",
+        "Asset Name": "Backup Generator",
+        "URL": "backup-generator-maintenance-checklist"
+    },
+    {
+        "Title": "Electrical Panel Inspection Checklist Safety & Compliance Guide",
+        "Industry": "Commercial Buildings",
+        "Type of Checklist": "Inspection",
+        "Asset Type": "Electrical Panel",
+        "Asset Name": "Main Electrical Panel",
+        "URL": "electrical-panel-inspection-checklist"
+    },
+    {
+        "Title": "Fire Alarm System Maintenance Checklist NFPA Compliant",
+        "Industry": "Fire Safety",
+        "Type of Checklist": "Inspection & Maintenance",
+        "Asset Type": "Fire Alarm System",
+        "Asset Name": "Fire Alarm Control Panel",
+        "URL": "fire-alarm-system-maintenance-checklist"
+    },
+    {
+        "Title": "Emergency Exit Light Inspection Checklist OSHA Safety Standard",
+        "Industry": "Facility Safety",
+        "Type of Checklist": "Monthly Inspection",
+        "Asset Type": "Lighting",
+        "Asset Name": "Emergency Exit Lights",
+        "URL": "emergency-exit-light-inspection-checklist"
+    },
+    {
+        "Title": "HVAC Vacuum Pump Maintenance Checklist Prevent Downtime",
+        "Industry": "HVAC",
+        "Type of Checklist": "Routine Maintenance",
+        "Asset Type": "HVAC Equipment",
+        "Asset Name": "HVAC Vacuum Pump",
+        "URL": "hvac-vacuum-pump-maintenance-checklist"
+    },
+    {
+        "Title": "Split AC Unit Inspection Checklist Office Cooling Systems",
+        "Industry": "Commercial HVAC",
+        "Type of Checklist": "Cooling Unit Inspection",
+        "Asset Type": "Split AC",
+        "Asset Name": "Split AC Conference Room",
+        "URL": "split-ac-unit-inspection-checklist"
+    },
+    {
+        "Title": "Chiller Maintenance Checklist Daily, Weekly & Annual Tasks",
+        "Industry": "Facility Operations",
+        "Type of Checklist": "HVAC Maintenance",
+        "Asset Type": "Chiller",
+        "Asset Name": "Chiller Unit #1",
+        "URL": "chiller-maintenance-checklist"
+    },
+    {
+        "Title": "Cooling Tower Inspection & Cleaning Checklist HVAC Compliance",
+        "Industry": "Industrial Facilities",
+        "Type of Checklist": "Water System Inspection",
+        "Asset Type": "Cooling Tower",
+        "Asset Name": "Cooling Tower",
+        "URL": "cooling-tower-inspection-and-cleaning-checklist"
+    },
+    {
+        "Title": "Elevator Panel Inspection Checklist Safety & Functionality",
+        "Industry": "Building Services",
+        "Type of Checklist": "Electrical Inspection",
+        "Asset Type": "Elevator",
+        "Asset Name": "Elevator Control Panel",
+        "URL": "elevator-panel-inspection-checklist"
+    },
+    {
+        "Title": "Smoke Detector Testing Checklist Office Fire Safety",
+        "Industry": "Fire Safety",
+        "Type of Checklist": "Test & Inspection",
+        "Asset Type": "Smoke Detector",
+        "Asset Name": "Smoke Detector Admin Wing",
+        "URL": "smoke-detector-testing-checklist"
+    },
+    {
+        "Title": "Fire Extinguisher Inspection Checklist Monthly Compliance",
+        "Industry": "Fire Safety",
+        "Type of Checklist": "Monthly Inspection",
+        "Asset Type": "Fire Extinguisher",
+        "Asset Name": "Fire Extinguisher Main Lobby",
+        "URL": "fire-extinguisher-inspection-checklist"
+    },
+    {
+        "Title": "Eyewash Station Safety Checklist Emergency Preparedness",
+        "Industry": "Health & Safety",
+        "Type of Checklist": "Safety Equipment Check",
+        "Asset Type": "Eyewash Station",
+        "Asset Name": "Emergency Eye Wash Station",
+        "URL": "eyewash-station-safety-checklist"
+    },
+    {
+        "Title": "UPS Inspection Checklist Server Room Power Backup Safety",
+        "Industry": "IT Infrastructure",
+        "Type of Checklist": "Power Backup Inspection",
+        "Asset Type": "UPS",
+        "Asset Name": "Server Room UPS",
+        "URL": "ups-inspection-checklist"
+    },
+    {
+        "Title": "Electrical Transformer Maintenance Checklist Facility Safety",
+        "Industry": "Power Distribution",
+        "Type of Checklist": "Preventive Maintenance",
+        "Asset Type": "Transformer",
+        "Asset Name": "Electrical Transformer",
+        "URL": "electrical-transformer-maintenance-checklist"
+    },
+    {
+        "Title": "Forklift Inspection Checklist Daily Pre-Shift Operations",
+        "Industry": "Warehouse Operations",
+        "Type of Checklist": "Operator Pre-Use",
+        "Asset Type": "Forklift",
+        "Asset Name": "Forklift Warehouse #2",
+        "URL": "forklift-inspection-checklist"
+    },
+    {
+        "Title": "Fire Hose Reel Inspection Checklist Fire Safety Standards",
+        "Industry": "Fire Safety",
+        "Type of Checklist": "Equipment Inspection",
+        "Asset Type": "Fire Hose Reel",
+        "Asset Name": "Fire Hose Reel Floor 5",
+        "URL": "fire-hose-reel-inspection-checklist"
+    },
+    {
+        "Title": "UPS Room Environmental Sensor Checklist Temperature & Air Quality",
+        "Industry": "IT Infrastructure",
+        "Type of Checklist": "Environment Monitoring",
+        "Asset Type": "Sensor",
+        "Asset Name": "UPS Room Air Quality Sensor",
+        "URL": "ups-room-environmental-sensor-checklist"
+    },
+    {
+        "Title": "Network Switch Maintenance Checklist IT Infrastructure",
+        "Industry": "IT & Networking",
+        "Type of Checklist": "Hardware Inspection",
+        "Asset Type": "Network Switch",
+        "Asset Name": "Network Switch Cabinet A",
+        "URL": "network-switch-maintenance-checklist"
+    },
+    {
+        "Title": "CCTV Inspection Checklist Entrance Security Monitoring",
+        "Industry": "Security",
+        "Type of Checklist": "Surveillance Equipment",
+        "Asset Type": "CCTV Camera",
+        "Asset Name": "CCTV Camera Entrance Gate",
+        "URL": "cctv-inspection-checklist"
+    },
+    {
+        "Title": "Access Control System Checklist Door Entry & Logs",
+        "Industry": "Security Systems",
+        "Type of Checklist": "System Monitoring",
+        "Asset Type": "Access Control",
+        "Asset Name": "Access Control Server",
+        "URL": "access-control-system-checklist"
+    },
+    {
+        "Title": "Security DVR Maintenance Checklist Video Surveillance Backup",
+        "Industry": "Security Systems",
+        "Type of Checklist": "Video Backup Monitoring",
+        "Asset Type": "DVR",
+        "Asset Name": "Security DVR Unit",
+        "URL": "security-dvr-maintenance-checklist"
+    },
+    {
+        "Title": "Fire Pump Controller Checklist Emergency Response Readiness",
+        "Industry": "Fire Protection",
+        "Type of Checklist": "Emergency Equipment Inspection",
+        "Asset Type": "Fire Pump System",
+        "Asset Name": "Fire Pump Controller",
+        "URL": "fire-pump-controller-checklist"
+    },
+    {
+        "Title": "Sprinkler System Valve Room Inspection Checklist NFPA 25",
+        "Industry": "Fire Protection",
+        "Type of Checklist": "Valve Inspection",
+        "Asset Type": "Sprinkler System",
+        "Asset Name": "Sprinkler Valve Room Access",
+        "URL": "sprinkler-system-valve-room-inspection-checklist"
+    },
+    {
+        "Title": "Generator Fuel Level Inspection Checklist Emergency Backup",
+        "Industry": "Facilities Management",
+        "Type of Checklist": "Fuel System Inspection",
+        "Asset Type": "Generator Fuel Gauge",
+        "Asset Name": "Emergency Generator Fuel Gauge",
+        "URL": "generator-fuel-level-inspection-checklist"
+    },
+    {
+        "Title": "VFD Maintenance Checklist HVAC Energy Optimization",
+        "Industry": "HVAC",
+        "Type of Checklist": "Electrical Maintenance",
+        "Asset Type": "VFD",
+        "Asset Name": "Variable Frequency Drive HVAC",
+        "URL": "vfd-maintenance-checklist"
+    },
+    {
+        "Title": "Building Management System (BMS) Checklist Automation Review",
+        "Industry": "Smart Buildings",
+        "Type of Checklist": "Automation System Inspection",
+        "Asset Type": "BMS",
+        "Asset Name": "Building Management System Hub",
+        "URL": "building-management-system-bms-checklist"
+    },
+    {
+        "Title": "Kitchen Fire Suppression System Checklist NFPA Compliance",
+        "Industry": "Hospitality Food Service",
+        "Type of Checklist": "Fire Safety",
+        "Asset Type": "Kitchen Fire Panel",
+        "Asset Name": "Fire Suppression Panel Kitchen",
+        "URL": "kitchen-fire-suppression-system-checklist"
+    },
+    {
+        "Title": "CO Detector Inspection Checklist Indoor Air Safety",
+        "Industry": "Health & Safety",
+        "Type of Checklist": "Sensor Testing",
+        "Asset Type": "CO Detector",
+        "Asset Name": "Carbon Monoxide Detector",
+        "URL": "co-detector-inspection-checklist-indoor-air-safety"
+    },
+    {
+        "Title": "Gas Leak Detection Checklist Kitchen & Boiler Rooms",
+        "Industry": "Industrial Safety",
+        "Type of Checklist": "Sensor Inspection",
+        "Asset Type": "Gas Detector",
+        "Asset Name": "Gas Leak Sensor",
+        "URL": "gas-leak-detection-checklist-kitchen-and-boiler-rooms"
+    },
+    {
+        "Title": "Toilet Flush Valve Inspection Checklist Restroom Maintenance",
+        "Industry": "Facility Maintenance",
+        "Type of Checklist": "Restroom Equipment Check",
+        "Asset Type": "Flush Valve",
+        "Asset Name": "Toilet Flush Valve",
+        "URL": "toilet-flush-valve-inspection-checklist-restroom-maintenance"
+    },
+    {
+        "Title": "Backwater Valve Basement Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Plumbing & Drainage",
+        "Type of Checklist": "Flood Prevention",
+        "Asset Type": "Backwater Valve",
+        "Asset Name": "Backwater Valve Basement",
+        "URL": "backwater-valve-basement-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Handwashing Sink Assembly Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Sanitation & Hygiene",
+        "Type of Checklist": "Sink Maintenance",
+        "Asset Type": "Handwashing Sink",
+        "Asset Name": "Handwashing Sink Assembly",
+        "URL": "handwashing-sink-assembly-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Utility Trench Grate Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Infrastructure",
+        "Type of Checklist": "Structural Safety Check",
+        "Asset Type": "Trench Grate",
+        "Asset Name": "Utility Trench Grate",
+        "URL": "utility-trench-grate-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Grease Trap Monitoring Sensor Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Commercial Kitchens",
+        "Type of Checklist": "Grease Management",
+        "Asset Type": "Sensor",
+        "Asset Name": "Grease Trap Monitoring Sensor",
+        "URL": "grease-trap-monitoring-sensor-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Secure VPN Appliance Inspection Checklist Facility Maintenance Guide",
+        "Industry": "IT Security",
+        "Type of Checklist": "Network Equipment Audit",
+        "Asset Type": "VPN",
+        "Asset Name": "Secure VPN Appliance",
+        "URL": "secure-vpn-appliance-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Voice Evacuation Speaker Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Emergency Systems",
+        "Type of Checklist": "PA System Test",
+        "Asset Type": "Speaker",
+        "Asset Name": "Voice Evacuation Speaker",
+        "URL": "voice-evacuation-speaker-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Cloud Access Point Node Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Enterprise Networking",
+        "Type of Checklist": "Wireless Infrastructure Check",
+        "Asset Type": "Access Point",
+        "Asset Name": "Cloud Access Point Node",
+        "URL": "cloud-access-point-node-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Vacuum Breaker Valve Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Plumbing",
+        "Type of Checklist": "Backflow Prevention",
+        "Asset Type": "Vacuum Breaker",
+        "Asset Name": "Vacuum Breaker Valve",
+        "URL": "vacuum-breaker-valve-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Hose Bib Maintenance Yard Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Landscaping & Maintenance",
+        "Type of Checklist": "Outdoor Plumbing Check",
+        "Asset Type": "Hose Bib",
+        "Asset Name": "Hose Bib Maintenance Yard",
+        "URL": "hose-bib-maintenance-yard-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Drinking Fountain Filter Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Public Facilities",
+        "Type of Checklist": "Water Filter Replacement",
+        "Asset Type": "Fountain Filter",
+        "Asset Name": "Drinking Fountain Filter",
+        "URL": "drinking-fountain-filter-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Emergency Shutoff Valve Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Fire & Gas Safety",
+        "Type of Checklist": "Emergency Control Inspection",
+        "Asset Type": "Shutoff Valve",
+        "Asset Name": "Emergency Shutoff Valve",
+        "URL": "emergency-shutoff-valve-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Drainage Cleanout Cover Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Plumbing Maintenance",
+        "Type of Checklist": "Access Point Inspection",
+        "Asset Type": "Cleanout Cover",
+        "Asset Name": "Drainage Cleanout Cover",
+        "URL": "drainage-cleanout-cover-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Toilet Supply Line Inspection Checklist Facility Maintenance Guide",
+        "Industry": "Facility Maintenance",
+        "Type of Checklist": "Plumbing Inspection",
+        "Asset Type": "Plumbing Fixture",
+        "Asset Name": "Toilet Supply Line",
+        "URL": "toilet-supply-line-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Compressor Heat Exchanger Inspection Checklist Facility Maintenance Guide",
+        "Industry": "HVAC Industrial",
+        "Type of Checklist": "Preventive Maintenance",
+        "Asset Type": "HVAC Component",
+        "Asset Name": "Compressor Heat Exchanger",
+        "URL": "compressor-heat-exchanger-inspection-checklist-facility-maintenance-guide"
+    },
+    {
+        "Title": "Condensate Pump Float Switch Inspection Checklist Facility Maintenance Guide",
+        "Industry": "HVAC Facility Ops",
+        "Type of Checklist": "Functional Test Checklist",
+        "Asset Type": "Pump Control Component",
+        "Asset Name": "Condensate Pump Float Switch",
+        "URL": "condensate-pump-float-switch-inspection-checklist-facility-maintenance-guide"
+    }
+]

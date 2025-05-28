@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /blogs/
+Disallow: /assetshub/
+Disallow: /articles/
+Allow: /
+
+Sitemap: https://oxmaint.com/sitemap.xml
+Sitemap: https://community.oxmaint.com/sitemap.xml

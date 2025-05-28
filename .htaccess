@@ -1,0 +1,33 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+# Disable directory listing
+Options -Indexes
+ 
+# Redirect to custom 404 page when accessing directory index
+ErrorDocument 403 /404.html
+
+# Set custom 404 error page
+ErrorDocument 404 /404.html
+ 
+# Allow access to all files within the assets directory
+<FilesMatch ".*">
+    Require all granted
+</FilesMatch>
+
+# Remove trailing slash from URLs
+# RewriteRule ^(.*)/$ /$1 [L,R=301]
+ 
+# # Or redirect non-www to www
+# RewriteCond %{HTTP_HOST} ^oxmaint\.com [NC] 
+# RewriteRule ^(.*)$ https://oxmaint.com/$1 [L,R=301] 
+ 
+# # Redirect HTTP to HTTPS
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+Header set Access-Control-Allow-Origin "*"
