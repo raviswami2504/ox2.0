@@ -15,19 +15,25 @@
 
     gtag("config", "G-Y6M0T9NLP4");
 </script>
-
 <style>
+
     .btn-primary:hover {
         background-color: #fab758 !important;
         border-color: #fab758 !important;
     }
-
+    
     footer a:hover {
         color: #fab758 !important;
     }
-
+    
     #phone-content h1 {
         font-size: 18px;
         color: white;
     }
-</style>
+    
+    #number-content a {
+        font-size: 18px;
+        color: #60697b;
+    }
+    
+    </style>
