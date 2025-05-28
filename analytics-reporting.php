@@ -57,7 +57,7 @@
 <body>
   <div class="content-wrapper">
      <!-- /header -->
-         <?php include "header100.php" ?>
+         <?php include "./include-2/header100.php" ?>
 
     <section class="wrapper">
       <div class="container pt-15">
@@ -836,7 +836,7 @@
 
   <!-- footer -->
 
-          <?php include "footer200.php" ?>
+          <?php include "./include-2/footer200.php" ?>
 
   <script type="text/javascript"
     id="zsiqchat">var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq || { widgetcode: "siq673b563a79ba68de89182b1f70304139f817a2feee1d52c2758c7cb40118b52d", values: {}, ready: function () { } }; var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true; s.src = "https://salesiq.zohopublic.com/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t);</script>

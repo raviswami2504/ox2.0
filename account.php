@@ -28,7 +28,7 @@
 <body>
   <div class="content-wrapper">
     <!-- /header -->
-         <?php include "header100.php" ?>
+         <?php include "./include-2/header100.php" ?>
 
     
     <section class="wrapper image-wrapper bg-image bg-overlay bg-overlay-400 text-white" data-image-src="./assets/img/photos/bg3.jpg">
@@ -109,7 +109,7 @@
    
   <!-- footer -->
 
-          <?php include "footer200.php" ?>
+          <?php include "./include-2/footer200.php" ?>
 
   <div class="progress-wrap">
     <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">

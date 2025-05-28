@@ -56,7 +56,7 @@ asset inspection, maintenance management, food manufacturing, product quality, r
 <body>
     <div class="content-wrapper">
  <!-- /header -->
-         <?php include "header100.php" ?>
+         <?php include "./include-2/header100.php" ?>
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="../assets/img/photos/new/food.png">
             <div class="container pt-15 pb-5 py-sm-15 py-xxl-18">
@@ -693,7 +693,7 @@ asset inspection, maintenance management, food manufacturing, product quality, r
     <!-- /.content-wrapper -->
 
  <!-- /footer -->
-         <?php include "footer200.php" ?>
+         <?php include "./include-2/footer200.php" ?>
 
     <div class="progress-wrap" style="opacity: 1">
         <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">

@@ -155,7 +155,7 @@
   <body>
     <div class="content-wrapper">
   <!-- /header -->
-         <?php include "header100.php" ?>
+         <?php include "./include-2/header100.php" ?>
 
       <section class="wrapper main-section">
         <div class="container py-14 py-md-16">
@@ -810,7 +810,7 @@
 
   <!-- footer -->
 
-          <?php include "footer200.php" ?>
+          <?php include "./include-2/footer200.php" ?>r200.php" ?>
     <script type="text/javascript" id="zsiqchat">
       var $zoho = $zoho || {};
       $zoho.salesiq = $zoho.salesiq || {

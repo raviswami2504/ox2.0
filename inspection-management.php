@@ -60,7 +60,7 @@
 <body>
   <div class="content-wrapper">
 
-      <?php include "header100.php" ?>
+      <?php include "./include-2/header100.php" ?>
 
 
 
@@ -717,7 +717,7 @@
 
 
 
-        <?php include "footer200.php" ?>
+        <?php include "./include-2/footer200.php" ?>r200.php" ?>
 
 
   <script type="text/javascript"

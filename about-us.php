@@ -53,7 +53,7 @@
 
   
     <!-- /header -->
-         <?php include "header100.php" ?>
+         <?php include "./include-2/header100.php" ?>
 
 
     <section class="wrapper image-wrapper bg-image bg-overlay bg-overlay-400 text-white" data-image-src="./assets/img/photos/bg22.png">
@@ -239,7 +239,7 @@
   <!-- /.content-wrapper -->
 
 <!-- footer -->
-         <?php include "footer200.php" ?>
+         <?php include "./include-2/footer200.php" ?>
 
 
 

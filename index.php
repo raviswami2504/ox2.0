@@ -132,7 +132,7 @@
 <body>
   <div class="content-wrapper">
   <!-- /header -->
-         <?php include "header100.php" ?>
+         <?php include "./include-2/header100.php" ?>
 
     <section class="wrapper">
       <div class="container pt-15">
@@ -906,7 +906,7 @@
 
   <!-- footer -->
 
-          <?php include "footer200.php" ?>
+          <?php include "./include-2/footer200.php" ?>
 
 
   <script>

@@ -119,7 +119,7 @@
 <body>
   <div class="content-wrapper">
   <!-- /header -->
-         <?php include "header100.php" ?>
+         <?php include "./include-2/header100.php" ?>
          
              <section class="wrapper text-dark">
       <div class="container pt-18 pt-md-20 pb-21 pb-md-21 text-center">
@@ -424,7 +424,7 @@
 
   <!-- footer -->
 
-          <?php include "footer200.php" ?>
+          <?php include "./include-2/footer200.php" ?>r200.php" ?>
 
   <div class="progress-wrap" style="opacity: 1;">
     <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
