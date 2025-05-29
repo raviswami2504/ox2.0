@@ -18,17 +18,6 @@
     <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
     <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y6M0T9NLP4"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
-        gtag("config", "G-Y6M0T9NLP4");
-    </script>
-
     <style>
         /* features */
         .svg-bg {
@@ -694,7 +683,9 @@
 
  <!-- footer -->
 
-          <?php include "./include-2/footer200.php" ?>
+          <?php include "./include-2/footer200.php" ?> 
+
+     
 
     <script>
         document.addEventListener("DOMContentLoaded", function () {
@@ -733,6 +724,7 @@
             });
         });
     </script>
+    <script src="app.js"></script>
 </body>
 
 </html>

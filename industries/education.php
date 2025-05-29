@@ -10,40 +10,15 @@
         content="asset management, education industry, physical resources, financial resources, human resources, operational efficiency, student outcomes, sustainability, strategies, tools, organizational goals" />
     <meta name="author" content="oxmaint" />
     <title>Oxmaint - Inspection and Maintenance Management in education industry</title>
-    <link rel="canonical" href="https://oxmaint.com/industries/education">
-    <link rel="shortcut icon" href="./../assets/img/favicon.png" />
-    <link rel="stylesheet" href="./../assets/css/plugins.css" />
-    <link rel="stylesheet" href="./../assets/css/style.css" />
-    <link rel="stylesheet" href="./../assets/css/colors/purple.css" />
 
-    <style>
-        @media (max-width: 576px) {
-            .bg-xs-none {
-                background-image: none !important;
-            }
-        }
-
-        .btn-primary:hover {
-            background-color: #fab758 !important;
-            border-color: #fab758 !important;
-        }
-
-        footer a:hover {
-            color: #fab758 !important;
-        }
-
-        #phone-content h1 {
-            font-size: 18px;
-            color: white;
-        }
-    </style>
-
-</head>
+  </head>
 
 <body>
     <div class="content-wrapper">
          <!-- /header -->
         <?php include "../include-2/header100.php" ?>
+
+        <?php include "style2.php" ?>
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="./../assets/img/photos/new/education.png">
             <!-- style="background-image: linear-gradient(357.09deg, rgba(0, 0, 0, 0.8) 22.51%, rgba(0, 0, 0, 0.494) 98.84%), url(

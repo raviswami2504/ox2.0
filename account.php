@@ -9,26 +9,15 @@
     content="Maintenance management, CMMS software, Work order tracking, Preventive maintenance, Asset management, Performance monitoring, Maintenance scheduling, Downtime reduction, Operational efficiency, Maintenance tracking, Work order management, Equipment maintenance, Facility maintenance, Maintenance software, Maintenance planning, Maintenance operations, Maintenance efficiency, Maintenance optimization">
   <meta name="author" content="oxmaint">
   <title>Oxmaint - Account</title>
-  <link rel="shortcut icon" href="./assets/img/favicon.png">
-  <link rel="stylesheet" href="./assets/css/plugins.css">
-  <link rel="stylesheet" href="./assets/css/style.css">
-  <link rel="stylesheet" href="./assets/css/colors/purple.css">
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y6M0T9NLP4"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'G-Y6M0T9NLP4');
-  </script>
+  
 </head>
 
 <body>
   <div class="content-wrapper">
     <!-- /header -->
          <?php include "./include-2/header100.php" ?>
+          <?php include "./include-2/style.php" ?>
 
     
     <section class="wrapper image-wrapper bg-image bg-overlay bg-overlay-400 text-white" data-image-src="./assets/img/photos/bg3.jpg">

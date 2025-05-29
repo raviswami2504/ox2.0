@@ -11,33 +11,6 @@
     <meta name="author" content="oxmaint" />
     <title>Oxmaint - Maximizing Fleet Efficiency and Reliability: Strategies for Effective Asset Inspection and Maintenance Management in Fleet Management
         Industry</title>
-    <link rel="canonical" href="https://oxmaint.com/industries/fleet-management">
-    <link rel="shortcut icon" href="./../assets/img/favicon.png" />
-    <link rel="stylesheet" href="./../assets/css/plugins.css" />
-    <link rel="stylesheet" href="./../assets/css/style.css" />
-    <link rel="stylesheet" href="./../assets/css/colors/purple.css" />
-
-    <style>
-        @media (max-width: 576px) {
-            .bg-xs-none {
-                background-image: none !important;
-            }
-        }
-
-        .btn-primary:hover {
-            background-color: #fab758 !important;
-            border-color: #fab758 !important;
-        }
-
-        footer a:hover {
-            color: #fab758 !important;
-        }
-
-        #phone-content h1 {
-            font-size: 18px;
-            color: white;
-        }
-    </style>
 
 </head>
 
@@ -45,6 +18,7 @@
     <div class="content-wrapper">
         <!-- /header -->
         <?php include "../include-2/header100.php" ?>
+        <?php include "style2.php" ?>
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="./../assets/img/photos/new/fleet-management.png">
             <div class="container pt-15 pb-5 py-sm-15 py-xxl-18">

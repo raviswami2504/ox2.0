@@ -10,13 +10,6 @@
     content="asset management, education industry, physical resources, financial resources, human resources, operational efficiency, student outcomes, sustainability, strategies, tools, organizational goals" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - ABB PLC Integration</title>
-  <link rel="canonical" href="https://oxmaint.com/integration/abb">
-  <link rel="shortcut icon" href="./../assets/img/favicon.png" />
-  <link rel="stylesheet" href="./../assets/css/plugins.css" />
-  <link rel="stylesheet" href="./../assets/css/style.css" />
-  <link rel="stylesheet" href="./../assets/css/colors/purple.css" />
-
-   <link rel="stylesheet" href="style.css">
 
 </head>
 
@@ -24,6 +17,7 @@
   <div class="content-wrapper">
      <!-- /header -->
         <?php include "../include-2/header100.php" ?>
+        <?php include "../industries/style2.php" ?>
 
     <!-- Main Header Section -->
     <div class="container pt-15 pt-md-18">

@@ -10,33 +10,7 @@
     content="asset management, education industry, physical resources, financial resources, human resources, operational efficiency, student outcomes, sustainability, strategies, tools, organizational goals" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Siemens PLC Integration</title>
-  <link rel="canonical" href="https://oxmaint.com/integration/siemens">
-  <link rel="shortcut icon" href="./../assets/img/favicon.png" />
-  <link rel="stylesheet" href="./../assets/css/plugins.css" />
-  <link rel="stylesheet" href="./../assets/css/style.css" />
-  <link rel="stylesheet" href="./../assets/css/colors/purple.css" />
-
-  <style>
-    @media (max-width: 576px) {
-      .bg-xs-none {
-        background-image: none !important;
-      }
-    }
-
-    .btn-primary:hover {
-      background-color: #fab758 !important;
-      border-color: #fab758 !important;
-    }
-
-    footer a:hover {
-      color: #fab758 !important;
-    }
-
-    #phone-content h1 {
-      font-size: 18px;
-      color: white;
-    }
-  </style>
+  
 
 </head>
 
@@ -44,6 +18,7 @@
   <div class="content-wrapper">
     <!-- /header -->
          <?php include "../include-2/header100.php" ?>
+         <?php include "../industries/style2.php" ?>
     <!-- /header -->
 
     <div class="container pt-15 pt-md-18">

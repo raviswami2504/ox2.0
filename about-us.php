@@ -10,42 +10,7 @@
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Get In Touch</title>
   <link rel="canonical" href="https://oxmaint.com/about-us">
-  <link rel="shortcut icon" href="./assets/img/favicon.png" />
-  <link rel="stylesheet" href="./assets/css/plugins.css" />
-  <link rel="stylesheet" href="./assets/css/style.css" />
-  <link rel="stylesheet" href="./assets/css/colors/purple.css" />
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y6M0T9NLP4"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
-
-    gtag("config", "G-Y6M0T9NLP4");
-  </script>
-  <style>
-    .btn-primary:hover {
-      background-color: #fab758 !important;
-      border-color: #fab758 !important;
-    }
-
-    footer a:hover {
-      color: #fab758 !important;
-    }
-
-    #phone-content h1 {
-      font-size: 18px;
-      color: white;
-    }
-
-    #number-content a {
-      font-size: 18px;
-      color: #60697b;
-    }
-  </style>
+ 
 </head>
 
 <body>
@@ -54,6 +19,7 @@
   
     <!-- /header -->
          <?php include "./include-2/header100.php" ?>
+          <?php include "./include-2/style.php" ?>
 
 
     <section class="wrapper image-wrapper bg-image bg-overlay bg-overlay-400 text-white" data-image-src="./assets/img/photos/bg22.png">

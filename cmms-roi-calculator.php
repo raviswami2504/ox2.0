@@ -9,39 +9,7 @@
     <meta name="author" content="oxmaint" />
 
     <title>Man Power Hour Savings Calculator</title>
-    <link rel="canonical" href="https://oxmaint.com/cmms-roi-calculator">
 
-    <link rel="shortcut icon" href="./assets/img/favicon.png" />
-    <link rel="stylesheet" href="./assets/css/plugins.css" />
-    <link rel="stylesheet" href="./assets/css/style.css" />
-    <link rel="stylesheet" href="./assets/css/colors/purple.css" />
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y6M0T9NLP4"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
-
-        gtag("config", "G-Y6M0T9NLP4");
-    </script>
-
-    <style>
-        .btn-primary:hover {
-            background-color: #fab758 !important;
-            border-color: #fab758 !important;
-        }
-
-        footer a:hover {
-            color: #fab758 !important;
-        }
-
-        #phone-content h1 {
-            font-size: 18px;
-            color: white;
-        }
     </style>
 
 </head>
@@ -50,6 +18,7 @@
     <div class="content-wrapper">
     <!-- /header -->
          <?php include "./include-2/header100.php" ?>
+         <?php include "./include-2/style.php" ?>
 
         <section class="wrapper">
             <div class="container py-4 py-md-6">
@@ -138,21 +107,6 @@
 
           <?php include "./include-2/footer200.php" ?>
 
-    <script type="text/javascript"
-        id="zsiqchat">var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq || { widgetcode: "siq673b563a79ba68de89182b1f70304139f817a2feee1d52c2758c7cb40118b52d", values: {}, ready: function () { } }; var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true; s.src = "https://salesiq.zohopublic.com/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t);</script>
-
-    <div class="progress-wrap" style="opacity: 1">
-        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
-        </svg>
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
-        crossorigin="anonymous"></script>
-    <script src="./assets/js/plugins.js"></script>
-    <script src="./assets/js/theme.js"></script>
-    <script src="./assets/js/number_picker.js"></script>
 
     <script>
         function calculateROI() {
@@ -218,7 +172,7 @@
             input.addEventListener('input', calculateROI);
         });
     </script>
-
+<script src="app.js"></script>
 </body>
 
 </html>
