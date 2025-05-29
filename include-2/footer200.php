@@ -1,7 +1,3 @@
-<?php
-// footer.php
-?>
-
 <footer class="text-inverse" style="background-color: #061748;">
     <div class="container py-5 py-md-5" data-cues="slideInDown">
         <div class="d-lg-flex flex-row align-items-lg-center">
@@ -100,6 +96,7 @@
             </div>
         </div>
     </div>
+</footer>
 
     <script type="text/javascript"
         id="zsiqchat">var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq || { widgetcode: "siq673b563a79ba68de89182b1f70304139f817a2feee1d52c2758c7cb40118b52d", values: {}, ready: function () { } }; var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true; s.src = "https://salesiq.zohopublic.com/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t);</script>
@@ -117,4 +114,3 @@
     <script src="https://oxmaint.com/assets/js/theme.js"></script>
     <script src="https://oxmaint.com/assets/js/number_picker.js"></script>
 
-</footer>

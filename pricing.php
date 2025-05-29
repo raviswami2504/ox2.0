@@ -810,7 +810,7 @@
 
   <!-- footer -->
 
-          <?php include "./include-2/footer200.php" ?>r200.php" ?>
+          <?php include "./include-2/footer200.php" ?> ?>
     <script type="text/javascript" id="zsiqchat">
       var $zoho = $zoho || {};
       $zoho.salesiq = $zoho.salesiq || {

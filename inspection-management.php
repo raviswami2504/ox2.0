@@ -55,6 +55,8 @@
       color: white;
     }
   </style>
+
+
 </head>
 
 <body>
@@ -717,7 +719,7 @@
 
 
 
-        <?php include "./include-2/footer200.php" ?>r200.php" ?>
+        <?php include "./include-2/footer200.php" ?>
 
 
   <script type="text/javascript"

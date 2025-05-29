@@ -827,7 +827,7 @@
     <!-- /.content-wrapper -->
 
  <!-- /footer -->
-        <?php include "../include-2/footer200.php" ?>
+        <?php include "./include-2/footer200.php" ?>
 
         <script src="app.js"></script>
 </body>
