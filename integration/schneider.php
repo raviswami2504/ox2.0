@@ -10,8 +10,26 @@
     content="asset management, education industry, physical resources, financial resources, human resources, operational efficiency, student outcomes, sustainability, strategies, tools, organizational goals" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Schneider PLC Integration</title>
-  
 
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint for Schneider Electric Asset Management">
+<meta property="og:description"
+  content="Empower Schneider Electric asset maintenance with Oxmaint’s advanced CMMS tools. Schedule, track, and optimize your Schneider equipment lifecycle for maximum efficiency and reliability.">
+<meta property="og:url" content="https://oxmaint.com/Schneider">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint x Schneider: Smart Maintenance Solutions">
+<meta name="twitter:description"
+  content="Maintain Schneider Electric assets with confidence using Oxmaint’s powerful CMMS. Streamline workflows, reduce downtime, and improve asset performance with intelligent maintenance tracking.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+  
+<?php include "../industries/style2.php" ?>
 </head>
 
 <body>
@@ -19,7 +37,7 @@
   <div class="content-wrapper">
      <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "../industries/style2.php" ?>
+        
 
     <div class="container pt-15 pt-md-18">
       <div class="row gx-lg-0 gx-xl-8 gy-10 gy-md-13 gy-lg-0 mb-7 mb-md-5 mb-lg-6 align-items-center">

@@ -12,13 +12,31 @@
     <title>Oxmaint - Ensuring Operational Efficiency and Accountability: Best Practices for Asset Inspection and Maintenance Management in Government Industry
     </title>
 
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Government Asset & Facility Management in Oxmaint">
+<meta property="og:description"
+  content="Enhance transparency, accountability, and operational efficiency with Oxmaint’s CMMS solution tailored for government institutions. Manage public infrastructure, maintenance schedules, and asset lifecycles with ease.">
+<meta property="og:url" content="https://oxmaint.com/government-industry">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Smart Maintenance for Government Infrastructure">
+<meta name="twitter:description"
+  content="Support efficient public service delivery with Oxmaint’s CMMS for government sectors. Streamline maintenance of facilities, utilities, and assets while ensuring compliance and budget control.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+    <?php include "style2.php" ?>
 </head>
 
 <body>
     <div class="content-wrapper">
       <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "style2.php" ?>
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="../assets/img/photos/new/government.png">
             <div class="container pt-15 pb-5 py-sm-15 py-xxl-18">

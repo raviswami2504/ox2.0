@@ -11,14 +11,32 @@
     <meta name="author" content="oxmaint">
     <title>Oxmaint - Optimizing Facility Performance and Safety: Best Practices for Asset Inspection and Maintenance
         Management in Facility Management Industry </title>
-
+        <!-- Meta OG tags for Facebook -->
+        <meta property="og:title" content="Facility Management Solutions in Oxmaint">
+        <meta property="og:description"
+        content="Simplify and streamline facility operations with Oxmaint’s powerful CMMS software. Manage building systems, maintenance schedules, and work orders to enhance performance and reduce operational costs.">
+        <meta property="og:url" content="https://oxmaint.com/facility-management-industry">
+        <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="OXMaint">
+        
+        <!-- Meta OG tags for Twitter -->
+        <meta name="twitter:title" content="Oxmaint: Smart CMMS for Facility Management">
+        <meta name="twitter:description"
+        content="Elevate your facility management with Oxmaint. Handle maintenance, assets, and work orders efficiently in buildings, complexes, and business parks with our all-in-one CMMS solution.">
+        <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@OXMaint">
+        
+        <?php include "style2.php" ?>
+        
 </head>
 
 <body>
     <div class="content-wrapper">
        <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "style2.php" ?>
+        
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="../assets/img/photos/new/facility-management.png">
             <div class="container pt-15 pb-5 py-sm-15 py-xxl-18">

@@ -11,14 +11,30 @@
     <meta name="author" content="oxmaint">
     <title>Oxmaint - Maximizing Efficiency and Productivity: Best Practices for Asset Inspection and Maintenance
         Management in Manufacturing Plant Industry </title>
-   
+   <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Manufacturing Plant Maintenance with Oxmaint">
+<meta property="og:description"
+  content="Optimize your manufacturing operations with Oxmaint’s CMMS. Manage production equipment, minimize unplanned downtime, and streamline preventive maintenance in manufacturing plants.">
+<meta property="og:url" content="https://oxmaint.com/manufacturing-plant-industry">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: CMMS for Manufacturing Plants">
+<meta name="twitter:description"
+  content="Ensure production efficiency and asset reliability with Oxmaint. Our CMMS helps manufacturing plants reduce downtime, manage equipment lifecycles, and improve overall plant performance.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+        <?php include "style2.php" ?>
 </head>
 
 <body>
     <div class="content-wrapper">
    <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "style2.php" ?>
 
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="../assets/img/photos/new/plant.png">

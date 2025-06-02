@@ -29,12 +29,12 @@
   <meta name="twitter:site" content="@OXMaint">
 
  
+  <?php include "./include-2/style.php" ?>
 
 <body>
   <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-15">

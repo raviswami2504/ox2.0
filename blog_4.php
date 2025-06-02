@@ -10,13 +10,31 @@
   <meta name="author" content="oxmaint">
   <title>Oxmaint - Advantages of SAP ERP integration to Oxmaint App maintenance execution system</title>
   
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint Blog - Blog Post Title">
+<meta property="og:description"
+  content="Explore expert insights and practical tips on maintenance management and asset optimization in this Oxmaint blog post. Stay updated with the latest trends.">
+<meta property="og:url" content="https://oxmaint.com/blog_4">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint Blog: Blog Post Title">
+<meta name="twitter:description"
+  content="Gain valuable knowledge on maintenance best practices and asset management strategies in this informative Oxmaint blog article.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
    <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
     <section class="wrapper">
       <div class="container pt-17 pb-8 pt-md-19 pb-md-8 text-center">
         <div class="row">

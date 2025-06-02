@@ -30,6 +30,7 @@
   <meta name="twitter:site" content="@OXMaint">
 
 
+  <?php include "./include-2/style.php" ?>
 
 </head>
 
@@ -37,7 +38,6 @@
   <div class="content-wrapper">
 
       <?php include "./include-2/header100.php" ?>
-      <?php include "./include-2/style.php" ?>
 
 
     <section class="wrapper">

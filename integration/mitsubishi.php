@@ -16,8 +16,24 @@
   <link rel="stylesheet" href="./../assets/css/style.css" />
   <link rel="stylesheet" href="./../assets/css/colors/purple.css" />
 
-   <link rel="stylesheet" href="style.css">
+<!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint Integration with Mitsubishi Systems">
+<meta property="og:description"
+  content="Integrate Mitsubishi automation and control systems with Oxmaint CMMS for advanced asset monitoring, reduced downtime, and real-time maintenance insights.">
+<meta property="og:url" content="https://oxmaint.com/integration/mitsubishi.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Mitsubishi Integration with Oxmaint CMMS">
+<meta name="twitter:description"
+  content="Seamlessly connect Mitsubishi PLCs and automation systems with Oxmaint to automate data collection, streamline workflows, and drive predictive maintenance.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+<?php include "../industries/style2.php" ?>
 
 </head>
 

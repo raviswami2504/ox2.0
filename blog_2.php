@@ -10,14 +10,31 @@
   <meta name="author" content="oxmaint">
   <title>Oxmaint - Power of real-time maintenance information via mobile apps</title>
  
+    <!-- Meta OG tags for Facebook -->
+  <meta property="og:title" content="Oxmaint Blog - Blog Post Title">
+  <meta property="og:description"
+    content="Stay ahead in maintenance management with insights from Oxmaint. This article explores key strategies, technologies, or trends impacting CMMS and asset performance.">
+  <meta property="og:url" content="https://oxmaint.com/blog_2">
+  <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="OXMaint">
 
+  <!-- Meta OG tags for Twitter -->
+  <meta name="twitter:title" content="Oxmaint Blog: Blog Post Title">
+  <meta name="twitter:description"
+    content="Explore practical maintenance strategies and tools in this Oxmaint blog post. Learn how to boost efficiency and extend asset life.">
+  <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
    <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-17 pb-8 pt-md-19 pb-md-8 text-center">

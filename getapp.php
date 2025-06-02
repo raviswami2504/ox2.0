@@ -10,7 +10,26 @@
         content="Maintenance management software, CMMS software, asset management software, facility maintenance software, maintenance tracking software, Maintenance management software, CMMS software, Connect all your field staff and maintenance teams, in real time Report, track and coordinate repairs, oxmaint iPhone app, oxmaint Android app, oxmaint Desktop apps, maintainance management ios app, maintainance management android app, Work order tracking, Preventive maintenance, Asset management, Performance monitoring, Maintenance scheduling, Downtime reduction, Operational efficiency, Maintenance tracking, Work order management, Equipment maintenance, Facility maintenance, Maintenance software, Maintenance planning, Maintenance operations, Maintenance efficiency, Maintenance optimization">
     <meta name="author" content="oxmaint">
     <title>Get Oxmaint - The #1 Maintenance Management Software | Free Trial</title>
+
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Download Oxmaint CMMS App">
+<meta property="og:description"
+  content="Get the Oxmaint mobile app for efficient on-the-go maintenance management. Access work orders, track assets, and stay connected with your team—anytime, anywhere.">
+<meta property="og:url" content="https://oxmaint.com/getapp.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint CMMS Mobile App - Download Now">
+<meta name="twitter:description"
+  content="Streamline maintenance with Oxmaint’s CMMS mobile app. Manage tasks, view asset data, and boost productivity from your smartphone or tablet.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
    
+<?php include "./include-2/style.php" ?>
 
 </head>
 
@@ -18,7 +37,6 @@
     <div class="content-wrapper">
       <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
         <section class="wrapper">
             <div class="container pt-15 pb-15 pt-md-14 pb-md-15 text-center">

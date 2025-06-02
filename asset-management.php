@@ -11,13 +11,30 @@
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Asset Management</title>
  
+    <!-- Meta OG tags for Facebook -->
+  <meta property="og:title" content="Asset Management - OXMaint">
+  <meta property="og:description"
+    content="Take full control of your equipment and assets with Oxmaint's Asset Management module. Track usage, monitor performance, manage warranties, and extend asset life effortlessly.">
+  <meta property="og:url" content="https://oxmaint.com/asset-management">
+  <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OXMaint">
 
+  <!-- Meta OG tags for Twitter -->
+  <meta name="twitter:title" content="Oxmaint: Simplified Asset Management">
+  <meta name="twitter:description"
+    content="Manage your operational assets with precision. Oxmaint helps you organize, monitor, and optimize asset performance while minimizing downtime and cost.">
+  <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "./include-2/style.php" ?>
 <body>
   <div class="content-wrapper">
    
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-        <?php include "./include-2/style.php" ?>
 
 
     <section class="wrapper">

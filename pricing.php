@@ -13,6 +13,23 @@
     />
     <meta name="author" content="oxmaint" />
     <title>
+      <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint Pricing Plans - Choose the Right Plan for Your Maintenance Needs">
+<meta property="og:description"
+  content="Discover affordable and scalable pricing plans for Oxmaint CMMS. Whether you're a small business or a large enterprise, find the perfect plan to optimize your maintenance operations.">
+<meta property="og:url" content="https://oxmaint.com/pricing">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Flexible Pricing Plans for Every Business">
+<meta name="twitter:description"
+  content="Get the most value from your CMMS investment with Oxmaint's flexible pricing. Compare features, scale with ease, and choose the plan that fits your maintenance strategy.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
       Pricing Plans, Features &amp; Free Demos, Affordable Maintenance
       Management Solutions | Oxmaint Pricing
     </title>

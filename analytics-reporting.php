@@ -12,13 +12,31 @@
   <title>Oxmaint - Analytics Reporting</title>
   <link rel="canonical" href="https://oxmaint.com/analytics-reporting">
  
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Analytics & Reporting in OXMaint">
+<meta property="og:description"
+  content="Gain powerful insights with Oxmaint’s analytics and reporting tools. Track KPIs, monitor asset performance, and make data-driven decisions to optimize maintenance operations.">
+<meta property="og:url" content="https://oxmaint.com/analytics-reporting">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Maintenance Analytics & Reporting | OXMaint">
+<meta name="twitter:description"
+  content="Visualize your maintenance data with Oxmaint’s advanced analytics. Generate detailed reports, monitor trends, and improve operational efficiency with real-time insights.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
      <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-          <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-15">

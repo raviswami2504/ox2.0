@@ -10,15 +10,33 @@
     content="asset management, education industry, physical resources, financial resources, human resources, operational efficiency, student outcomes, sustainability, strategies, tools, organizational goals" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Omron PLC Integration</title>
+
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint Integration with Omron Devices">
+<meta property="og:description"
+  content="Integrate Omron sensors and automation systems with Oxmaint CMMS to enable real-time monitoring, predictive maintenance, and enhanced operational insights.">
+<meta property="og:url" content="https://oxmaint.com/integration/omron.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Omron Integration with Oxmaint CMMS">
+<meta name="twitter:description"
+  content="Boost your maintenance strategy with Oxmaint’s integration with Omron. Automate alerts, collect sensor data, and optimize asset performance with intelligent analytics.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
   
 
+<?php include "../industries/style2.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
      <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "../industries/style2.php" ?>
 
     <div class="container pt-15 pt-md-18">
       <div class="row gx-lg-0 gx-xl-8 gy-10 gy-md-13 gy-lg-0 mb-7 mb-md-5 mb-lg-6 align-items-center">

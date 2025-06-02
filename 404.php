@@ -9,18 +9,33 @@
     <meta name="author" content="oxmaint" />
     <title>Oxmaint - 404</title>
     <link rel="canonical" href="https://oxmaint.com/404">
+    
+    <!-- Meta OG tags for Facebook -->
+    <meta property="og:title" content="Page Not Found - OXMaint">
+    <meta property="og:description"
+    content="Oops! The page you're looking for doesn't exist. Go back to Oxmaint.com and explore our maintenance management solutions.">
+    <meta property="og:url" content="https://oxmaint.com/404">
+    <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="OXMaint">
 
+    <!-- Meta OG tags for Twitter -->
+    <meta name="twitter:title" content="404 | Page Not Found - OXMaint">
+    <meta name="twitter:description"
+    content="We couldn’t find the page you’re looking for. Head back to our homepage or browse Oxmaint’s CMMS features.">
+    <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@OXMaint">
 
+    <?php include "./include-2/style.php" ?>
     
 </head>
 
 <body>
     <div class="content-wrapper">
 
-          <?php include "./include-2/header100.php" ?>
-           <?php include "./include-2/style.php" ?>
-
-
+        <?php include "./include-2/header100.php" ?>
+        
         <!-- /header -->
         <section class="wrapper">
             <div class="container pt-12 pt-md-14 pb-8">

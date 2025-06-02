@@ -10,7 +10,26 @@
     content="asset management, education industry, physical resources, financial resources, human resources, operational efficiency, student outcomes, sustainability, strategies, tools, organizational goals" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Maintenance Request</title>
+
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="AI-Powered Maintenance with Oxmaint">
+<meta property="og:description"
+  content="Leverage artificial intelligence with Oxmaint CMMS to enable predictive maintenance, reduce unplanned downtime, and make smarter asset management decisions.">
+<meta property="og:url" content="https://oxmaint.com/integration/ai_maintenance.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint AI Maintenance Integration">
+<meta name="twitter:description"
+  content="Integrate AI into your maintenance strategy with Oxmaint. Predict equipment failures, optimize maintenance schedules, and boost reliability using real-time data and machine learning.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
   
+<?php include "../industries/style2.php" ?>
 
 </head>
 
@@ -18,7 +37,6 @@
   <div class="content-wrapper">
     <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "../industries/style2.php" ?>
 
     <!-- Main Header Section -->
     <div class="container pt-15 pt-md-18">

@@ -11,14 +11,33 @@
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Revolutionizing Maintenance and Asset Tracking in the Cement Industry with OxMaint, Sensor Integration, and SAP Integration</title>
   <link rel="canonical" href="https://oxmaint.com/cement_industry_case_study">
+
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Cement Industry Case Study - Oxmaint">
+<meta property="og:description"
+  content="See how Oxmaint helped a cement manufacturer optimize asset performance, reduce downtime, and increase operational efficiency with our CMMS solution.">
+<meta property="og:url" content="https://oxmaint.com/cement_industry_case_study">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Cement Industry Case Study">
+<meta name="twitter:description"
+  content="Discover how Oxmaint’s CMMS transformed asset management for a cement plant—improving reliability, cutting costs, and boosting equipment performance.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
   
+<?php include "./include-2/style.php" ?>
 
 <body>
   <div class="content-wrapper">
   
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-10 pb-19 pt-md-14 pb-md-22 text-center">

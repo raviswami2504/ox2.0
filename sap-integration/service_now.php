@@ -10,8 +10,25 @@
     content="asset management, education industry, physical resources, financial resources, human resources, operational efficiency, student outcomes, sustainability, strategies, tools, organizational goals" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - ServiceNow Integration</title>
- 
+ <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="ServiceNow Integration with Oxmaint">
+<meta property="og:description"
+  content="Connect Oxmaint with ServiceNow to streamline IT service management and maintenance workflows. Automate ticketing, asset tracking, and improve operational efficiency seamlessly.">
+<meta property="og:url" content="https://oxmaint.com/servicenow-integration">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: ServiceNow Integration">
+<meta name="twitter:description"
+  content="Enhance your IT and maintenance operations by integrating ServiceNow with Oxmaint. Automate incident management, track assets, and optimize workflows effectively.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "../industries/style2.php" ?>
 </head>
 
 <body>
@@ -19,7 +36,6 @@
   <div class="content-wrapper">
     <!-- /header -->
          <?php include "../include-2/header100.php" ?>
-         <?php include "../industries/style2.php" ?>
     <!-- navbar over -->
 
     <!-- Main Header Section -->

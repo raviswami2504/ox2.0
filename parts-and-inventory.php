@@ -10,14 +10,31 @@
     content="Parts inventory management, CMMS software, Inventory control, Stock optimization, Inventory visibility, Part procurement, Usage tracking, Cost reduction, Equipment uptime, Downtime minimization, Maintenance operations, Spare parts management, Inventory tracking, Reorder points, Stock levels, Inventory automation, Inventory accuracy" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Part Inventory Management</title>
- 
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Parts and Inventory Management in Oxmaint">
+<meta property="og:description"
+  content="Optimize spare parts availability and inventory control with Oxmaint CMMS. Track stock levels, manage suppliers, and reduce downtime through smart inventory insights and automated reordering.">
+<meta property="og:url" content="https://oxmaint.com/parts-and-inventory">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Smart Parts & Inventory Management">
+<meta name="twitter:description"
+  content="Streamline parts tracking and inventory control with Oxmaint CMMS. Avoid stockouts, reduce excess inventory, and automate replenishment for uninterrupted maintenance operations.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+  
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
          
     <section class="wrapper">
       <div class="container pt-15">

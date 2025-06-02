@@ -11,14 +11,31 @@
     <meta name="author" content="oxmaint">
     <title>Oxmaint - Optimizing Tenant Satisfaction and Asset Value: Best Practices for Asset Inspection and Maintenance Management in Property Management
         Industry</title>
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Property Management Maintenance with Oxmaint">
+<meta property="og:description"
+  content="Simplify property operations with Oxmaint’s CMMS. Track maintenance tasks, manage building assets, and ensure tenant satisfaction in residential and commercial properties.">
+<meta property="og:url" content="https://oxmaint.com/property-management-industry">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: CMMS for Property Management Industry">
+<meta name="twitter:description"
+  content="Streamline maintenance across properties with Oxmaint. From routine inspections to asset tracking, our CMMS empowers property managers to operate efficiently and deliver excellent service.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+    
+ <?php include "style2.php" ?>
+ 
 </head>
 
 <body>
     <div class="content-wrapper">
          <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "style2.php" ?>
 
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="../assets/img/photos/new/property-management.png">

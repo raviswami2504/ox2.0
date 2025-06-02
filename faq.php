@@ -10,14 +10,33 @@
     content="maintenance CMMS software, CMMS software FAQs, maintenance software, CMMS implementation, pricing,oxmaint, maintenance management, industry 4.0, best in class maintenance software, preventive schedule, maintenance software, cmms software" />
   <meta name="author" content="elemis" />
   <title>Your Maintenance CMMS Software Frequently Asked Questions|Oxmaint FAQ</title>
+
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint FAQ - Frequently Asked Questions">
+<meta property="og:description"
+  content="Find answers to common questions about Oxmaint’s CMMS software, features, pricing, implementation, support, and more. Get the information you need to get started.">
+<meta property="og:url" content="https://oxmaint.com/faq.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Frequently Asked Questions (FAQ)">
+<meta name="twitter:description"
+  content="Have questions about Oxmaint? Visit our FAQ page to learn more about how our CMMS software works, setup process, pricing, features, and support options.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
  
+<?php include "./include-2/style.php" ?>
+
 </head>
 
 <body>
   <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-15 pb-12 pt-md-14 pb-md-16 text-center">

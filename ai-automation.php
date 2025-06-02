@@ -12,13 +12,31 @@
   <title>Oxmaint - AI Automation</title>
   <link rel="canonical" href="https://oxmaint.com/ai-automation">
   
+    <!-- Meta OG tags for Facebook -->
+  <meta property="og:title" content="AI Automation in OXMaint CMMS">
+  <meta property="og:description"
+    content="Enhance maintenance efficiency with AI-powered automation in Oxmaint. Predict asset failures, auto-generate work orders, and optimize maintenance schedules using intelligent insights.">
+  <meta property="og:url" content="https://oxmaint.com/ai-automation">
+  <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OXMaint">
+
+  <!-- Meta OG tags for Twitter -->
+  <meta name="twitter:title" content="AI-Driven Maintenance Automation | OXMaint">
+  <meta name="twitter:description"
+    content="Unlock smart maintenance with Oxmaint’s AI Automation. Leverage predictive insights, reduce downtime, and streamline asset management through intelligent automation.">
+  <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
-  <!-- /header -->
-         <?php include "./include-2/header100.php" ?>
-          <?php include "./include-2/style.php" ?>
+    <!-- /header -->
+    <?php include "./include-2/header100.php" ?>
 
     <section class="wrapper">
       <div class="container pt-15">

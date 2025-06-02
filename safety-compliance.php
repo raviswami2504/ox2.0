@@ -10,14 +10,31 @@
     content="Safety management, Compliance management, CMMS software, Incident tracking, Safety processes, Regulatory compliance, Workplace safety, Risk management, Safety inspections, Compliance requirements, Safety protocols, Compliance tracking, Safety incidents, Safety documentation, Compliance reporting, Safety training, Compliance audits, Safety regulations" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Safety and Compliance</title>
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Safety & Compliance Management in Oxmaint">
+<meta property="og:description"
+  content="Ensure safety and regulatory compliance with Oxmaint. Track inspections, certifications, compliance tasks, and safety measures in real time for your operational assets.">
+<meta property="og:url" content="https://oxmaint.com/safety-compliance">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Safety & Compliance Management">
+<meta name="twitter:description"
+  content="Oxmaint's CMMS solution helps you maintain safety standards and meet regulatory compliance. Monitor certifications, inspections, and safety protocols efficiently to ensure a safe and compliant work environment.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
   
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
     <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-15">

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
 
 <head>
   <meta charset="utf-8" />
@@ -12,29 +12,30 @@
   <title>Streamline Maintenance Tasks | Oxmaint Work Order Management</title>
   <link rel="canonical" href="https://oxmaint.com/work-order-management" />
 
-  <!-- Meta OG tags for Facebook -->
-  <meta property="og:title" content="Work Order Management - Empowers with flexible, easy-to-use work order software.">
-  <meta property="og:description"
-    content="work order management software that helps businesses track and manage work orders. It can be used to assign tasks to technicians, track progress, and reduce downtime. Oxmaint also has features that can help businesses save money on maintenance costs.">
-  <meta property="og:url" content="https://oxmaint.com/work-order-management">
-  <meta property="og:image" content="https://oxmaint.com/assets/media/oxmaint-work-order.webm">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="OXMaint">
-  <!-- Meta OG tags for Twitter -->
-  <meta name="twitter:title" content="Work Order Management - Simplify Your Workflow">
-  <meta name="twitter:description" content="Track, assign, and prioritize tasks efficiently with Oxmaint's work order management solution.">
-  <meta name="twitter:image" content="https://oxmaint.com/assets/media/oxmaint-work-order.webm">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@OXMaint">
+ <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Work Order Management in Oxmaint">
+<meta property="og:description"
+  content="Streamline your maintenance workflow with Oxmaint’s Work Order Management. Easily create, assign, track, and complete work orders to enhance team efficiency and reduce equipment downtime.">
+<meta property="og:url" content="https://oxmaint.com/work-order-management">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Work Order Management Made Simple">
+<meta name="twitter:description"
+  content="Improve maintenance efficiency with Oxmaint’s Work Order Management module. Manage tasks, assign technicians, and track progress — all from one intuitive CMMS platform.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
 
+<?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-15">

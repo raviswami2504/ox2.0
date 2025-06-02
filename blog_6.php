@@ -11,11 +11,29 @@
     <meta name="author" content="oxmaint">
     <title>Oxmaint - The Future of Asset Management: Integrating IoT Sensor Data into Condition-Based Maintenance Planning</title>
   
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint Blog - Blog Post Title">
+<meta property="og:description"
+  content="Stay updated with the latest insights and tips on maintenance management and asset optimization in this Oxmaint blog post.">
+<meta property="og:url" content="https://oxmaint.com/blog_6">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint Blog: Blog Post Title">
+<meta name="twitter:description"
+  content="Explore key maintenance strategies and asset management trends in this informative post by Oxmaint.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+    <?php include "./include-2/style.php" ?>
 <body>
     <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
         <section class="wrapper">
             <div class="container pt-10 pb-8 pt-md-16 pb-md-8 text-center">

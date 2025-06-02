@@ -10,11 +10,29 @@
     content="Maintenance management, CMMS software, Work order tracking, Preventive maintenance, Asset management, Performance monitoring, Maintenance scheduling, Downtime reduction, Operational efficiency, Maintenance tracking, Work order management, Equipment maintenance, Facility maintenance, Maintenance software, Maintenance planning, Maintenance operations, Maintenance efficiency, Maintenance optimization">
   <meta name="author" content="oxmaint">
   <title>Oxmaint - Contact Us</title>
+
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Contact Oxmaint - We're Here to Help">
+<meta property="og:description"
+  content="Get in touch with the Oxmaint team for product inquiries, support, or partnership opportunities. We're ready to assist you with all your maintenance management needs.">
+<meta property="og:url" content="https://oxmaint.com/contact.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Contact Oxmaint Support & Sales Team">
+<meta name="twitter:description"
+  content="Have questions about Oxmaint? Reach out to our friendly team for support, demos, or to learn how our CMMS solution can benefit your business.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+<div class="content-wrapper">
   
 </head>
 
 <body>
-  <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
          <?php include "./include-2/style.php" ?>

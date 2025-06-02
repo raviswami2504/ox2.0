@@ -11,14 +11,30 @@
     <meta name="author" content="oxmaint">
     <title>Oxmaint - Maximizing Asset Value Through Effective Asset Lifecycle Management (ALM)</title>
    
+        <!-- Meta OG tags for Facebook -->
+    <meta property="og:title" content="Oxmaint Blog - Blog Post Title">
+    <meta property="og:description"
+    content="Get expert insights and practical advice on maintenance management and asset optimization in this Oxmaint blog post. Stay informed and improve your operations.">
+    <meta property="og:url" content="https://oxmaint.com/blog_9">
+    <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="OXMaint">
 
+    <!-- Meta OG tags for Twitter -->
+    <meta name="twitter:title" content="Oxmaint Blog: Blog Post Title">
+    <meta name="twitter:description"
+    content="Learn best practices and latest trends in maintenance management through this detailed blog post from Oxmaint.">
+    <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@OXMaint">
+
+    <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
     <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
         <section class="wrapper">
             <div class="container pt-10 pb-8 pt-md-16 pb-md-8 text-center">

@@ -11,6 +11,24 @@
   <title>Oxmaint - Get In Touch</title>
   <link rel="canonical" href="https://oxmaint.com/about-us">
  
+  <!-- Meta OG tags for Facebook -->
+  <meta property="og:title" content="About Us - OXMaint">
+  <meta property="og:description"
+    content="Learn about Oxmaint, our mission, values, and the team behind the powerful CMMS platform helping businesses streamline maintenance operations.">
+  <meta property="og:url" content="https://oxmaint.com/about-us">
+  <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OXMaint">
+
+  <!-- Meta OG tags for Twitter -->
+  <meta name="twitter:title" content="About Oxmaint – Our Story & Vision">
+  <meta name="twitter:description"
+    content="At Oxmaint, we’re committed to revolutionizing maintenance management through user-friendly and powerful CMMS tools. Meet the team and learn our story.">
+  <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@OXMaint">
+
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
@@ -18,9 +36,7 @@
 
   
     <!-- /header -->
-         <?php include "./include-2/header100.php" ?>
-          <?php include "./include-2/style.php" ?>
-
+    <?php include "./include-2/header100.php" ?>
 
     <section class="wrapper image-wrapper bg-image bg-overlay bg-overlay-400 text-white" data-image-src="./assets/img/photos/bg22.png">
       <div class="container pt-17 pb-20 pt-md-19 pb-md-21 text-center">

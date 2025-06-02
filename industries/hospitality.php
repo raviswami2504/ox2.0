@@ -11,14 +11,30 @@
     <meta name="author" content="elemis">
     <title>Oxmaint - Optimizing Guest Satisfaction and Safety: Best Practices for Asset Inspection and Maintenance
         Management in Hospitality Industry</title>
+        <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Hospitality Maintenance Management with Oxmaint">
+<meta property="og:description"
+  content="Deliver exceptional guest experiences by maintaining top-tier facilities with Oxmaint’s CMMS for the hospitality industry. Manage hotel assets, schedule preventive maintenance, and reduce downtime effortlessly.">
+<meta property="og:url" content="https://oxmaint.com/hospitality-industry">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: CMMS for Hotels & Hospitality Facilities">
+<meta name="twitter:description"
+  content="Keep your hotel operations running smoothly with Oxmaint. From HVAC systems to guest amenities, our CMMS helps hospitality teams stay on top of maintenance, compliance, and asset performance.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+        <?php include "style2.php" ?>
 </head>
 
 <body>
     <div class="content-wrapper">
      <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "style2.php" ?>
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="../assets/img/photos/new/hospitality-management.png">
             <div class="container pt-15 pb-5 py-sm-15 py-xxl-18">

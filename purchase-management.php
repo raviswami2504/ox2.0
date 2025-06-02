@@ -10,6 +10,26 @@
     content="Purchase management, CMMS software, Procurement, Vendor management, Purchase tracking, Inventory management, Purchase orders, Vendor approvals, Cost-effectiveness, Procurement operations, Purchase automation, Supplier management, Purchase requisitions, Budget control, Purchase history, Inventory optimization, Procurement software" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Purchase Order Management</title>
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Purchase Management in Oxmaint">
+<meta property="og:description"
+  content="Streamline your procurement process with Oxmaint's Purchase Management. Easily track purchase orders, supplier data, delivery timelines, and inventory integration all in one centralized CMMS platform.">
+<meta property="og:url" content="https://oxmaint.com/purchase-management">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Purchase Management">
+<meta name="twitter:description"
+  content="Simplify and manage your purchasing operations with Oxmaint CMMS. Monitor supplier performance, automate purchase workflows, and ensure timely delivery of critical assets and materials.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+  
+  
+<?php include "./include-2/style.php" ?>
 
 </head>
 
@@ -17,11 +37,11 @@
   <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-15">
-        <div class="row gx-lg-8 gy-10 gy-md-13 mb-12 align-items-center mx-auto">
+        <div class="row gx-lg-8 gy-10 gy-md-13 mb-12 align-it
+        ems-center mx-auto">
           <div class="col-lg-6 text-center text-lg-start" data-cues="slideInDown" data-group="page-title" data-delay="600">
             <h1 class="fs-15 text-uppercase text-primary mb-3">Purchase Management</h1>
             <h2 class="display-3 mb-5 text-primary">Purchase Order Workflow Made Simple with Oxmaint</h2>

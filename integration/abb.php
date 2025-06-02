@@ -11,13 +11,31 @@
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - ABB PLC Integration</title>
 
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint Integration with ABB Systems">
+<meta property="og:description"
+  content="Integrate ABB automation and control systems with Oxmaint CMMS to enable real-time data flow, predictive insights, and smarter maintenance operations.">
+<meta property="og:url" content="https://oxmaint.com/integration/abb.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="ABB Integration with Oxmaint CMMS">
+<meta name="twitter:description"
+  content="Connect ABB technologies with Oxmaint to streamline asset tracking, improve equipment uptime, and leverage automation for maintenance optimization.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+<?php include "../industries/style2.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
      <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "../industries/style2.php" ?>
 
     <!-- Main Header Section -->
     <div class="container pt-15 pt-md-18">

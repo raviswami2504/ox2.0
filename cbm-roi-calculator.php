@@ -10,7 +10,26 @@
     <meta name="author" content="oxmaint" />
 
     <title>Condition-Based Maintenance (CBM) ROI Calculator</title>
+
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="CBM ROI Calculator | Oxmaint">
+<meta property="og:description"
+  content="Estimate your return on investment with our CBM ROI Calculator. Discover how Condition-Based Monitoring can reduce downtime, prevent failures, and optimize maintenance costs.">
+<meta property="og:url" content="https://oxmaint.com/cbm-roi-calculator">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: CBM ROI Calculator">
+<meta name="twitter:description"
+  content="Maximize operational efficiency with Oxmaint’s CBM ROI Calculator. Evaluate potential savings from Condition-Based Monitoring and make data-driven decisions for smarter maintenance strategies.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
     
+<?php include "./include-2/style.php" ?>
 
 </head>
 
@@ -18,7 +37,6 @@
     <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
         <section class="wrapper">
             <div class="container py-4 py-md-6">

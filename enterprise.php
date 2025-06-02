@@ -133,6 +133,24 @@
             color: white;
         }
     </style>
+
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint for Enterprise - Scalable CMMS Solutions">
+<meta property="og:description"
+  content="Empower your enterprise with Oxmaint's scalable CMMS platform. Centralize asset data, automate workflows, and improve maintenance operations across all your facilities.">
+<meta property="og:url" content="https://oxmaint.com/enterprise.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint Enterprise: CMMS at Scale">
+<meta name="twitter:description"
+  content="Discover how Oxmaint supports enterprise-level asset and maintenance management with powerful features, multi-site capabilities, and robust analytics for large organizations.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
 </head>
 
 <body>

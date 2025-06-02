@@ -11,6 +11,25 @@
     <meta name="author" content="oxmaint" />
     <title>Oxmaint - Inspection and Maintenance Management in education industry</title>
 
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Education Sector Maintenance Solutions in Oxmaint">
+<meta property="og:description"
+  content="Ensure safety, reliability, and efficiency across school and campus facilities with Oxmaint. Manage classrooms, labs, hostels, and campus infrastructure with our CMMS software tailored for the education sector.">
+<meta property="og:url" content="https://oxmaint.com/education">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Smart CMMS for Educational Institutions">
+<meta name="twitter:description"
+  content="Optimize campus operations with Oxmaint's education-focused maintenance solution. Streamline work orders, asset tracking, and preventive maintenance for schools, colleges, and universities.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+    
+     <?php include "style2.php" ?>
   </head>
 
 <body>
@@ -18,7 +37,7 @@
          <!-- /header -->
         <?php include "../include-2/header100.php" ?>
 
-        <?php include "style2.php" ?>
+       
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="./../assets/img/photos/new/education.png">
             <!-- style="background-image: linear-gradient(357.09deg, rgba(0, 0, 0, 0.8) 22.51%, rgba(0, 0, 0, 0.494) 98.84%), url(

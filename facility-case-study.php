@@ -11,13 +11,32 @@
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Transforming Facility Maintenance in the Facility Industry Using OxMaint</title>
 
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Facility Management Case Study - Oxmaint">
+<meta property="og:description"
+  content="Explore how a facility management company streamlined operations, reduced costs, and improved maintenance response times using Oxmaint’s CMMS solution. Real-world results and insights.">
+<meta property="og:url" content="https://oxmaint.com/facility-case-study.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Facility Management Case Study">
+<meta name="twitter:description"
+  content="See how Oxmaint helped a facility services company transform asset maintenance and improve efficiency with centralized tracking and preventive maintenance strategies.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+   <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
+        
 
     <section class="wrapper">
       <div class="container pt-10 pb-19 pt-md-14 pb-md-22 text-center">

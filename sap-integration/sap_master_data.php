@@ -11,7 +11,24 @@
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - SAP Master Data Integration</title>
  
+<!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="SAP Master Data Management in Oxmaint">
+<meta property="og:description"
+  content="Centralize and standardize your SAP master data with Oxmaint. Ensure data accuracy, improve operational efficiency, and support better decision-making across your enterprise systems.">
+<meta property="og:url" content="https://oxmaint.com/sap-master-data">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: SAP Master Data Management">
+<meta name="twitter:description"
+  content="Enhance SAP data governance and consistency with Oxmaint’s SAP Master Data Management. Automate data entry, validation, and updates to support seamless enterprise operations.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+  <?php include "../industries/style2.php" ?>
 </head>
 
 <body>
@@ -19,7 +36,6 @@
   <div class="content-wrapper">
     <!-- /header -->
          <?php include "../include-2/header100.php" ?>
-         <?php include "../industries/style2.php" ?>
     <!-- navbar over -->
 
     <!-- Main Header Section -->

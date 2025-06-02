@@ -11,14 +11,31 @@
     <meta name="author" content="oxmaint" />
     <title>Oxmaint - Maximizing Fleet Efficiency and Reliability: Strategies for Effective Asset Inspection and Maintenance Management in Fleet Management
         Industry</title>
+        <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Fleet Management Solutions in Oxmaint">
+<meta property="og:description"
+  content="Optimize your fleet operations with Oxmaint’s CMMS platform. Track vehicle maintenance, schedule repairs, manage inspections, and ensure road-ready performance across your entire fleet.">
+<meta property="og:url" content="https://oxmaint.com/fleet-management">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Intelligent CMMS for Fleet Management">
+<meta name="twitter:description"
+  content="Take control of your fleet with Oxmaint’s Fleet Management tools. Automate maintenance tracking, reduce downtime, and extend vehicle lifespan with our powerful CMMS software.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+        <?php include "style2.php" ?>
 </head>
 
 <body>
     <div class="content-wrapper">
         <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "style2.php" ?>
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="./../assets/img/photos/new/fleet-management.png">
             <div class="container pt-15 pb-5 py-sm-15 py-xxl-18">

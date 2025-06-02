@@ -9,6 +9,24 @@
   <meta name="keywords"
     content="oxmaint, Maintenance management support, CMMS assistance, technical support, help desk, troubleshooting, maintenance management, industry 4.0, best in class maintenance software, preventive schedule, maintenance software, cmms software" />
   <meta name="author" content="oxmaint" />
+
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Customer Support | Oxmaint">
+<meta property="og:description"
+  content="Need help with Oxmaint CMMS? Our dedicated support team is here to assist you with troubleshooting, onboarding, and technical questions. Reach out for fast, expert help.">
+<meta property="og:url" content="https://oxmaint.com/support">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint Support - We're Here to Help">
+<meta name="twitter:description"
+  content="Have questions about Oxmaint? Get expert support for setup, features, and technical issues. Our team is ready to help you make the most of our CMMS platform.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
   <title>Oxmaint - Support Hi. How can we help?</title>
   <link rel="canonical" href="https://oxmaint.com/support">
   <link rel="shortcut icon" href="./assets/img/favicon.png" />

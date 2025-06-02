@@ -10,8 +10,25 @@
     content="asset management, education industry, physical resources, financial resources, human resources, operational efficiency, student outcomes, sustainability, strategies, tools, organizational goals" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - SAP PM Module Integration</title>
+<!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="SAP PM Module Integration with Oxmaint">
+<meta property="og:description"
+  content="Integrate SAP Plant Maintenance (PM) module with Oxmaint to streamline maintenance planning, execution, and asset management. Enhance reliability and reduce downtime with seamless data synchronization.">
+<meta property="og:url" content="https://oxmaint.com/sap-pm-module-integration">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: SAP PM Module Integration">
+<meta name="twitter:description"
+  content="Optimize plant maintenance operations by integrating SAP PM module with Oxmaint. Automate work orders, monitor assets, and improve maintenance efficiency with ease.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
 
 
+  <?php include "../industries/style2.php" ?>
 </head>
 
 <body>
@@ -19,7 +36,6 @@
   <div class="content-wrapper">
      <!-- /header -->
          <?php include "../include-2/header100.php" ?>
-         <?php include "../industries/style2.php" ?>
     <!-- navbar over -->
 
     <!-- Main Header Section -->

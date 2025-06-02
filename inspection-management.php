@@ -10,14 +10,31 @@
     content="Inspection management, CMMS software, Compliance tracking, Regulatory standards, Inspection processes, Safety management, Quality control, Reporting, Automated reminders, Real-time updates, Asset inspections, Facility inspections, Equipment inspections, Audit trails, Inspection scheduling, Inspection tracking" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Quality Inspection Management</title>
- 
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Inspection Management with Oxmaint CMMS">
+<meta property="og:description"
+  content="Ensure compliance and improve asset reliability with Oxmaint’s Inspection Management. Schedule routine inspections, document results, and take corrective actions—all from a centralized platform.">
+<meta property="og:url" content="https://oxmaint.com/inspection-management">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Streamlined Inspection Management">
+<meta name="twitter:description"
+  content="Digitize and manage inspections with ease using Oxmaint CMMS. Track inspection records, automate scheduling, and maintain regulatory compliance across all assets.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="su
+
+
+ <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
 
       <?php include "./include-2/header100.php" ?>
-      <?php include "./include-2/style.php" ?>
+      
 
 
 

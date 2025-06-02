@@ -10,14 +10,31 @@
   <meta name="author" content="oxmaint">
   <title>Oxmaint - Account</title>
 
-  
+    <!-- Meta OG tags for Facebook -->
+  <meta property="og:title" content="Your Account - OXMaint">
+  <meta property="og:description"
+    content="Access your Oxmaint account to manage maintenance tasks, view work orders, and monitor asset performance. Secure and easy account access for all users.">
+  <meta property="og:url" content="https://oxmaint.com/account">
+  <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OXMaint">
+
+  <!-- Meta OG tags for Twitter -->
+  <meta name="twitter:title" content="OXMaint Account Access">
+  <meta name="twitter:description"
+    content="Log in to your OXMaint dashboard to manage work orders, monitor assets, and streamline maintenance workflows securely.">
+  <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
     <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-          <?php include "./include-2/style.php" ?>
 
     
     <section class="wrapper image-wrapper bg-image bg-overlay bg-overlay-400 text-white" data-image-src="./assets/img/photos/bg3.jpg">

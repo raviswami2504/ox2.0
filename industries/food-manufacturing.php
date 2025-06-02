@@ -11,14 +11,31 @@
 asset inspection, maintenance management, food manufacturing, product quality, regulatory compliance, consumer safety, inspection practices, maintenance practices, downtime reduction, repair cost reduction, asset lifespan extension, business objectives, strategies, best practices" />
     <meta name="author" content="elemis" />
     <title>Oxmaint - Ensuring Quality and Compliance: Best Practices for Asset Inspection and Maintenance Management in Food Manufacturing Industry</title>
+<!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Food Manufacturing Maintenance Solutions in Oxmaint">
+<meta property="og:description"
+  content="Maintain equipment hygiene, ensure regulatory compliance, and reduce downtime with Oxmaint’s CMMS for the food manufacturing industry. Streamline maintenance operations and keep your production lines running smoothly.">
+<meta property="og:url" content="https://oxmaint.com/food-manufacturing-industry">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: CMMS for the Food Manufacturing Industry">
+<meta name="twitter:description"
+  content="Ensure operational excellence and food safety with Oxmaint’s maintenance management solution. Track inspections, schedule cleanings, and maintain compliance across your food manufacturing operations.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+    <?php include "style2.php" ?>
 </head>
 
 <body>
     <div class="content-wrapper">
  <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "style2.php" ?>
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="../assets/img/photos/new/food.png">
             <div class="container pt-15 pb-5 py-sm-15 py-xxl-18">

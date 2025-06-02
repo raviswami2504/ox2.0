@@ -10,14 +10,31 @@
     <meta name="author" content="oxmaint">
     <title>Oxmaint - Artificial Intelligence (AI) in the Maintenance Management Industry</title>
    
+        <!-- Meta OG tags for Facebook -->
+    <meta property="og:title" content="AI in Maintenance Management | OXMaint">
+    <meta property="og:description"
+    content="Discover how AI is transforming maintenance management. Oxmaint leverages artificial intelligence to predict failures, schedule maintenance, and boost operational efficiency.">
+    <meta property="og:url" content="https://oxmaint.com/ai-in-the-maintenance-management">
+    <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="OXMaint">
 
+    <!-- Meta OG tags for Twitter -->
+    <meta name="twitter:title" content="OXMaint: AI-Powered Maintenance Management">
+    <meta name="twitter:description"
+    content="Explore how AI is revolutionizing maintenance strategies. With Oxmaint, harness intelligent automation, predictive analytics, and smart scheduling for optimized asset management.">
+    <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@OXMaint">
+
+
+    <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
     <div class="content-wrapper">
           <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-        <?php include "./include-2/style.php" ?>
         <section class="wrapper">
             <div class="container pt-10 pb-8 pt-md-16 pb-md-8 text-center">
                 <div class="row">

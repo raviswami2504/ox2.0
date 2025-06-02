@@ -10,14 +10,31 @@
         content="Request maintenance, CMMS software, Maintenance management, Maintenance tracking, Work order submission, Preventive maintenance, Asset management, Equipment maintenance, Facility maintenance, Repair requests, Maintenance scheduling, Work request system, Maintenance ticketing, Downtime reduction, Operational efficiency" />
     <meta name="author" content="oxmaint" />
     <title>Oxmaint - Request Maintenance Workorder</title>
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Preventive Maintenance with Oxmaint CMMS">
+<meta property="og:description"
+  content="Reduce equipment failures and unplanned downtime with Oxmaint’s Preventive Maintenance. Automate recurring tasks, schedule inspections, and ensure timely servicing to boost operational efficiency.">
+<meta property="og:url" content="https://oxmaint.com/preventive-maintenance">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Smart Preventive Maintenance Scheduling">
+<meta name="twitter:description"
+  content="Keep your assets in top condition with Oxmaint's Preventive Maintenance. Schedule, track, and automate routine maintenance to avoid breakdowns and extend asset lifespan.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
  
+    <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
     <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
         <section class="wrapper">
             <div class="container pt-15">

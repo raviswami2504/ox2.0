@@ -9,7 +9,25 @@
     content="Asset-intensive industries, ranging from manufacturing to energy, rely on the seamless operation of equipment to ensure productivity and profitability.">
   <meta name="author" content="oxmaint">
   <title>Oxmaint - Optimizing Asset Performance: The Role of SAP Production Data in Strategic Maintenance Planning</title>
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Optimizing Asset Performance with Oxmaint CMMS">
+<meta property="og:description"
+  content="Enhance reliability and efficiency with Oxmaint's tools for optimizing asset performance. Leverage data insights, predictive maintenance, and real-time monitoring to reduce costs and extend asset life.">
+<meta property="og:url" content="https://oxmaint.com/optimizing-asset-performance">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Optimize Your Asset Performance">
+<meta name="twitter:description"
+  content="Drive asset efficiency with Oxmaint. Monitor performance, analyze data trends, and implement predictive strategies to maximize uptime and reduce lifecycle costs.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "./include-2/style.php" ?>
 
 </head>
 
@@ -17,7 +35,6 @@
   <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-10 pb-8 pt-md-16 pb-md-8 text-center">

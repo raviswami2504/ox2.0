@@ -11,31 +11,31 @@
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Asset Performance Management</title>
   <link rel="canonical" href="https://oxmaint.com/asset-performance-mangement">
-
+  
   <!-- Meta OG tags for Facebook -->
-  <meta property="og:title" content="Asset Performance Management in Oxmaint">
+  <meta property="og:title" content="Asset Performance Management - OXMaint">
   <meta property="og:description"
-    content="Maintain and control operational assets and equipment. Oxmaint makes it easy to track warranties, maintenance, depreciation, decommission of your assets, and much more.">
-  <meta property="og:url" content="https://oxmaint.com/enterprise-asset-management">
+    content="Monitor asset health, analyze performance trends, and optimize maintenance strategies with Oxmaint's Asset Performance Management. Improve reliability and reduce costs with real-time insights.">
+  <meta property="og:url" content="https://oxmaint.com/asset-performance-mangement">
   <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="OXMaint">
+
   <!-- Meta OG tags for Twitter -->
-  <meta name="twitter:title" content="Oxmaint: Asset Performance Management">
+  <meta name="twitter:title" content="Optimize Your Assets with Oxmaint Performance Management">
   <meta name="twitter:description"
-    content="Unlock the full potential of your assets with our Asset Performance Management feature in CMMS software. Monitor asset health, analyze performance data, and optimize maintenance strategies for improved reliability, efficiency, and cost-effectiveness. Maximize asset performance and extend their lifespan with our robust Asset Performance Management solution.">
+    content="Boost asset efficiency and reliability using Oxmaint’s Asset Performance Management tools. Gain insights, reduce downtime, and extend asset lifespan with data-driven maintenance decisions.">
   <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@OXMaint">
 
-
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
     <!-- /header -->
        <?php include "./include-2/header100.php" ?>
-       <?php include "./include-2/style.php" ?>
 
 
     <section class="wrapper">

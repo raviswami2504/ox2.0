@@ -11,6 +11,25 @@
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - Siemens PLC Integration</title>
   
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint for Siemens Assets Management">
+<meta property="og:description"
+  content="Optimize the performance and lifecycle of Siemens assets with Oxmaint’s tailored CMMS solutions. Monitor, maintain, and manage your Siemens equipment efficiently with our intelligent work order and asset management tools.">
+<meta property="og:url" content="https://oxmaint.com/Siemens">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint x Siemens: Intelligent Asset Management">
+<meta name="twitter:description"
+  content="Experience smarter Siemens asset maintenance with Oxmaint’s powerful CMMS platform. From predictive maintenance to streamlined work orders, ensure reliability, uptime, and compliance.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+  
+   <?php include "../industries/style2.php" ?>
 
 </head>
 
@@ -18,7 +37,6 @@
   <div class="content-wrapper">
     <!-- /header -->
          <?php include "../include-2/header100.php" ?>
-         <?php include "../industries/style2.php" ?>
     <!-- /header -->
 
     <div class="container pt-15 pt-md-18">

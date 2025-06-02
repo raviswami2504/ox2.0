@@ -114,6 +114,24 @@
     }
   </style>
 
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Get a Free Quote - Oxmaint CMMS">
+<meta property="og:description"
+  content="Request a personalized quote for Oxmaint’s CMMS software. Discover flexible pricing tailored to your business needs and scale your maintenance operations efficiently.">
+<meta property="og:url" content="https://oxmaint.com/get_quote.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: Request Your CMMS Quote">
+<meta name="twitter:description"
+  content="Get custom pricing for Oxmaint's powerful CMMS solution. Fill out our quick form and receive a quote tailored to your organization's maintenance management needs.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
 </head>
 
 <body>

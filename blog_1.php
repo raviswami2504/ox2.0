@@ -11,8 +11,25 @@
   <meta name="author" content="oxmaint">
   <title>Oxmaint - Daily Maintenance Tips for Your Industrial Plant</title>
   <link rel="canonical" href="https://oxmaint.com/blog_1">
- 
+  
+    <!-- Meta OG tags for Facebook -->
+  <meta property="og:title" content="Oxmaint Blog - Blog Post Title">
+  <meta property="og:description"
+    content="Explore maintenance insights, CMMS tips, and asset management strategies in this blog post by Oxmaint. Stay informed and optimize your operations.">
+  <meta property="og:url" content="https://oxmaint.com/blog_1">
+  <meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="OXMaint">
 
+  <!-- Meta OG tags for Twitter -->
+  <meta name="twitter:title" content="Oxmaint Blog: Blog Post Title">
+  <meta name="twitter:description"
+    content="Discover expert insights and practical advice for better maintenance management in this blog post from the Oxmaint team.">
+  <meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@OXMaint">
+
+  <?php include "./include-2/style.php" ?>
 >
 
 </head>
@@ -21,7 +38,6 @@
   <div class="content-wrapper">
   <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-          <?php include "./include-2/style.php" ?>
     <section class="wrapper">
       <div class="container pt-17 pb-6 pt-md-19 pb-md-6 text-center">
         <div class="row">

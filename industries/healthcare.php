@@ -10,14 +10,46 @@
         content="asset inspection, maintenance management, healthcare industry, patient safety, quality of care, regulatory compliance, inspection practices, maintenance practices, downtime reduction, repair cost reduction, reliability improvement, patient outcomes, strategies, best practices" />
     <meta name="author" content="oxmaint" />
     <title>Oxmaint - Ensuring Patient Safety and Quality of Care: Best Practices for Asset Inspection and Maintenance Management in Healthcare Industry</title>
+<!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Healthcare Facility Maintenance in Oxmaint">
+<meta property="og:description"
+  content="Ensure patient safety and compliance with Oxmaint’s CMMS for the healthcare industry. Manage medical equipment, hospital infrastructure, and preventive maintenance efficiently and reliably.">
+<meta property="og:url" content="https://oxmaint.com/healthcare-industry">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: CMMS for Hospitals and Healthcare Facilities">
+<meta name="twitter:description"
+  content="Streamline maintenance operations in hospitals and clinics with Oxmaint. Schedule inspections, reduce equipment downtime, and maintain compliance with healthcare standards using our smart CMMS.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+<!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Healthcare Facility Maintenance in Oxmaint">
+<meta property="og:description"
+  content="Ensure patient safety and compliance with Oxmaint’s CMMS for the healthcare industry. Manage medical equipment, hospital infrastructure, and preventive maintenance efficiently and reliably.">
+<meta property="og:url" content="https://oxmaint.com/healthcare-industry">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: CMMS for Hospitals and Healthcare Facilities">
+<meta name="twitter:description"
+  content="Streamline maintenance operations in hospitals and clinics with Oxmaint. Schedule inspections, reduce equipment downtime, and maintain compliance with healthcare standards using our smart CMMS.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+    <?php include "style2.php" ?>
 </head>
 
 <body>
     <div class="content-wrapper">
          <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "style2.php" ?>
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="../assets/img/photos/new/healthcare.png">
             <div class="container pt-15 pb-5 py-sm-15 py-xxl-18">

@@ -10,14 +10,31 @@
   <meta name="author" content="oxmaint">
   <title>Oxmaint - Benefits of Integrated Cement Plants digitization Technology</title>
 
+  <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="Oxmaint Blog - Blog Post Title">
+<meta property="og:description"
+  content="Discover actionable insights and expert advice on maintenance and asset management in this Oxmaint blog post. Stay informed and improve your operations.">
+<meta property="og:url" content="https://oxmaint.com/blog_5">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="OXMaint">
 
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint Blog: Blog Post Title">
+<meta name="twitter:description"
+  content="Learn best practices and the latest trends in maintenance management through this detailed blog post from Oxmaint.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "./include-2/style.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
      <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
     <section class="wrapper">
       <div class="container pt-17 pb-8 pt-md-19 pb-md-8 text-center">

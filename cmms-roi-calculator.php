@@ -10,7 +10,24 @@
 
     <title>Man Power Hour Savings Calculator</title>
 
-    </style>
+    <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="CMMS ROI Calculator - Oxmaint">
+<meta property="og:description"
+  content="Calculate your return on investment with Oxmaint’s CMMS ROI Calculator. Understand cost savings, efficiency gains, and the true value of implementing a maintenance management system.">
+<meta property="og:url" content="https://oxmaint.com/cmms-roi-calculator.php">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: CMMS ROI Calculator">
+<meta name="twitter:description"
+  content="Estimate how much your business can save with Oxmaint's CMMS. Use our ROI calculator to project reduced downtime, lower maintenance costs, and improved productivity.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+<?php include "./include-2/style.php" ?>
 
 </head>
 
@@ -18,7 +35,6 @@
     <div class="content-wrapper">
     <!-- /header -->
          <?php include "./include-2/header100.php" ?>
-         <?php include "./include-2/style.php" ?>
 
         <section class="wrapper">
             <div class="container py-4 py-md-6">

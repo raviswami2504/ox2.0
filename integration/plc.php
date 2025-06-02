@@ -10,7 +10,26 @@
     content="asset management, education industry, physical resources, financial resources, human resources, operational efficiency, student outcomes, sustainability, strategies, tools, organizational goals" />
   <meta name="author" content="oxmaint" />
   <title>Oxmaint - PLC Integration</title>
- 
+  
+ <!-- Meta OG tags for Facebook -->
+<meta property="og:title" content="PLC Integration with Oxmaint CMMS">
+<meta property="og:description"
+  content="Seamlessly integrate Programmable Logic Controllers (PLCs) with Oxmaint to enable real-time asset monitoring, intelligent maintenance automation, and improved operational control.">
+<meta property="og:url" content="https://oxmaint.com/PLC%20Integration">
+<meta property="og:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OXMaint">
+
+<!-- Meta OG tags for Twitter -->
+<meta name="twitter:title" content="Oxmaint: PLC Integration for Smarter Maintenance">
+<meta name="twitter:description"
+  content="Connect your PLC systems directly with Oxmaint CMMS for real-time data sync, predictive alerts, and enhanced automation insights. Boost uptime and streamline industrial maintenance workflows.">
+<meta name="twitter:image" content="https://oxmaint.com/assets/img/photos/webp/status.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OXMaint">
+
+
+  <?php include "../industries/style2.php" ?>
 
 </head>
 
@@ -18,7 +37,6 @@
   <div class="content-wrapper">
      <!-- /header -->
         <?php include "../include-2/header100.php" ?>
-        <?php include "../industries/style2.php" ?>
 
     <div class="container pt-15 pt-md-18">
       <div class="row gx-lg-0 gx-xl-8 gy-10 gy-md-13 gy-lg-0 mb-7 mb-md-5 mb-lg-6 align-items-center">
