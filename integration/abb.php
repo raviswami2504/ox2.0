@@ -29,13 +29,13 @@
 <meta name="twitter:site" content="@OXMaint">
 
 
-<?php include "../industries/style2.php" ?>
+<?php include "style_integration.php" ?>
 </head>
 
 <body>
   <div class="content-wrapper">
      <!-- /header -->
-        <?php include "../include-2/header100.php" ?>
+      <?php include "header_integration.php" ?>
 
     <!-- Main Header Section -->
     <div class="container pt-15 pt-md-18">
@@ -372,7 +372,7 @@
 
     <!-- Footer -->
     
-        <?php include "../include-2/footer200.php" ?>
+      <?php include "footer_integration.php" ?>
 
         <script src="app.js"></script>
 </body>

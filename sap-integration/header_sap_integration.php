@@ -194,7 +194,7 @@
                           <div class="widget">
                             <ul class="image-list">
                               <li>
-                                <a href="../blog/post/maintenance-strategy-options-and-how-to-pick-the-suitable-one">
+                                <a href="./blog/post/maintenance-strategy-options-and-how-to-pick-the-suitable-one">
                                   <figure class="rounded"><img src="./blog/admin/uploads/maintenance-strategy.png" alt="image" loading="lazy">
                                   </figure>
                                   <div class="post-content">

@@ -28,14 +28,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@OXMaint">
     
- <?php include "style2.php" ?>
+<?php include "style_industries.php" ?>
  
 </head>
 
 <body>
     <div class="content-wrapper">
          <!-- /header -->
-        <?php include "../include-2/header100.php" ?>
+        <?php include "header_industries.php" ?>
 
 
         <section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="../assets/img/photos/new/property-management.png">
@@ -687,7 +687,8 @@
     <!-- /.content-wrapper -->
 
   <!-- /footer -->
-        <?php include "../include-2/footer200.php" ?>
+        <?php include "footer_industries.php" ?>
+
 
         <script src="app.js"></script>
 

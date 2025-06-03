@@ -1,0 +1,22 @@
+ @media (max-width: 576px) {
+            .bg-xs-none {
+                background-image: none !important;
+            }
+        }
+
+        .btn-primary:hover {
+            background-color: #fab758 !important;
+            border-color: #fab758 !important;
+
+            /* background-color: #fdc500 !important; */
+            /* border-color: #fdc500 !important; */
+        }
+
+        footer a:hover {
+            color: #fab758 !important;
+        }
+
+        #phone-content h1 {
+            font-size: 18px;
+            color: white;
+        }

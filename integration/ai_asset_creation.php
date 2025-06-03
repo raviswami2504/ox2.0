@@ -29,7 +29,7 @@
 <meta name="twitter:site" content="@OXMaint">
 
   
-<?php include "../industries/style2.php" ?>
+<?php include "style_integration.php" ?>
 
 </head>
 
@@ -37,7 +37,7 @@
   <!-- Navbar starts -->
   <div class="content-wrapper">
      <!-- /header -->
-        <?php include "../include-2/header100.php" ?>
+      <?php include "header_integration.php" ?>
 
     <div class="container pt-15 pt-md-18">
       <div class="row gx-lg-0 gx-xl-8 gy-10 gy-md-13 gy-lg-0 mb-7 mb-md-5 mb-lg-6 align-items-center">
@@ -600,7 +600,7 @@ height: auto;">
     </section>
 
     <!-- /footer -->
-        <?php include "../include-2/footer200.php" ?>
+      <?php include "footer_integration.php" ?>
 
         <script src="app.js"></script>
 </body>

@@ -28,14 +28,14 @@
 <meta name="twitter:site" content="@OXMaint">
 
 
-  <?php include "../industries/style2.php" ?>
+  <?php include "style_sap_integration.php" ?>
 </head>
 
 <body>
   <!-- Navbar starts -->
   <div class="content-wrapper">
      <!-- /header -->
-         <?php include "../include-2/header100.php" ?>
+    <?php include "header_sap_integration.php" ?>
     <!-- navbar over -->
 
     <!-- Main Header Section -->
@@ -457,7 +457,7 @@
 
     <!-- Footer -->
     
-        <?php include "../include-2/footer200.php" ?>
+        <?php include "footer_sap_integration.php" ?>
 
         <script src="app.js"></script>
 </body>

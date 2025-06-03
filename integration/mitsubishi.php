@@ -33,14 +33,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@OXMaint">
 
-<?php include "../industries/style2.php" ?>
+<?php include "style_integration.php" ?>
 
 </head>
 
 <body>
   <div class="content-wrapper">
     <!-- /header -->
-        <?php include "../include-2/header100.php" ?>
+      <?php include "header_integration.php" ?>
 
     <div class="container pt-15 pt-md-18">
       <div class="row gx-lg-0 gx-xl-8 gy-10 gy-md-13 gy-lg-0 mb-7 mb-md-5 mb-lg-6 align-items-center">
@@ -472,7 +472,7 @@
     </section>
 
      <!-- /footer -->
-        <?php include "../include-2/footer200.php" ?>
+      <?php include "footer_integration.php" ?>
 
     <script type="text/javascript"
     id="zsiqchat">var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq || { widgetcode: "siq673b563a79ba68de89182b1f70304139f817a2feee1d52c2758c7cb40118b52d", values: {}, ready: function () { } }; var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true; s.src = "https://salesiq.zohopublic.com/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t);</script> <script type="module">
